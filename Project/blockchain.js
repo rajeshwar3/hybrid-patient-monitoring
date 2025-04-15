@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const fernet = require('fernet');
-
+;
 // Load base64-encoded key (same as in your Python encryption_key)
 const secret = new fernet.Secret(process.env.FERNET_KEY);  // Or read from file
 
@@ -57,9 +57,9 @@ async function pushToBlockchain(patientDataString) {
 }
 async function getFromBlockchain(index) {
   try {
-    const record = await contract.methods.getRecord(index).call();
+    const record = await contract.methods.records(index).call();
     console.log(`Record at index ${index}:`, record);
-    return decryptFernet(record);
+    return record;
   } catch (err) {
     console.error("Error retrieving record from blockchain:", err);
     throw err;
