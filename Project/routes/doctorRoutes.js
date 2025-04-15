@@ -54,18 +54,18 @@ router.post("/approve/:id", async (req, res) => {
   }
 });
 
-// router.get("/approved-block/:id", async (req, res) => {
-//   try {
-//     const recordId = req.params.id;
-//     const txResult = await pushToBlockchain(recordId);
-//     res.json({
-//       record: txResult
-//     });
-//   } catch (err) {
-//     console.error("Error fetching approved records:", err);
-//     res.status(500).json({ error: "Internal Server Error" });
-//   }
-// });
+router.get("/approved-block/:id", async (req, res) => {
+  try {
+    const recordId = req.params.id;
+    const txResult = await pushToBlockchain(recordId);
+    res.json({
+      record: txResult
+    });
+  } catch (err) {
+    console.error("Error fetching approved records:", err);
+    res.status(500).json({ error: "Internal Server Error" });
+  }
+});
 
 // ✅ GET: Fetch all approved records
 router.get("/approved", async (req, res) => {
