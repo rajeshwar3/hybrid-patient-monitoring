@@ -57,7 +57,10 @@ async function pushToBlockchain(patientDataString) {
 }
 async function getFromBlockchain(index) {
   try {
-    const record = await contract.methods.getRecord(index).call();
+    const record = await contract.methods.getRecord(index).call({
+      from: fromAccount,
+      gas: 300000,
+    });
     console.log(`Record at index ${index}:`, record);
     return record;
   } catch (err) {
