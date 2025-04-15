@@ -60,6 +60,7 @@ async function getFromBlockchain(index) {
     const accounts = await web3.eth.getAccounts();
     const fromAccount = accounts[0];
     const length = await contract.methods.getRecordsCount.call();
+    console.log("length : ", length);
     const record = await contract.methods.getRecord(length-1).call();
     console.log(`Record at index ${index}:`, record);
     return record;
