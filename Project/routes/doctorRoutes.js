@@ -57,7 +57,7 @@ router.post("/approve/:id", async (req, res) => {
 router.get("/approved-block/:id", async (req, res) => {
   try {
     const recordId = req.params.id;
-    const txResult = await pushToBlockchain(recordId);
+    const txResult = await getFromBlockchain(recordId);
     res.json({
       record: txResult
     });
