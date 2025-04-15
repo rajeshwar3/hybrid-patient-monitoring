@@ -3,6 +3,28 @@ const Web3 = require('web3');
 const fs = require("fs");
 const path = require("path");
 
+const fernet = require('fernet');
+
+// Load base64-encoded key (same as in your Python encryption_key)
+const secret = new fernet.Secret(process.env.FERNET_KEY);  // Or read from file
+
+function decryptFernet(encryptedString) {
+  const token = new fernet.Token({
+    secret: secret,
+    token: encryptedString,
+    ttl: 0, // Optional: set to 0 to disable expiry checks
+  });
+
+  try {
+    const decrypted = token.decode();
+    return decrypted;
+  } catch (error) {
+    console.error("Fernet decryption failed:", error.message);
+    throw error;
+  }
+}
+
+
 // Set up Web3 with HTTP provider
 const web3 = new Web3(new Web3.providers.HttpProvider(process.env.PROVIDER_URL));
 
@@ -37,7 +59,7 @@ async function getFromBlockchain(index) {
   try {
     const record = await contract.methods.getRecord(index).call();
     console.log(`Record at index ${index}:`, record);
-    return record;
+    return decryptFernet(record);
   } catch (err) {
     console.error("Error retrieving record from blockchain:", err);
     throw err;
