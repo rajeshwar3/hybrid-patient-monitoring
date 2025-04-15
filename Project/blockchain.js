@@ -44,4 +44,4 @@ async function pushToBlockchain(patientDataString) {
 //   }
 // }
 
-module.exports = { pushToBlockchain, getFromBlockchain };
+module.exports = { pushToBlockchain };
