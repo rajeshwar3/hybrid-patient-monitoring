@@ -1,0 +1,2001 @@
+heart rate,spo2,object temperature,ambient temperature,pressure,disease
+116,94,31.99,29.57,958.59,No Disease Detected
+107,89,34.73,28.45,1025.65,Hypoxia
+106,94,30.54,24.1,1062.97,Hypertension/Hypotension
+83,88,36.33,29.7,1017.65,Hypoxia
+52,92,39.42,30.94,939.27,Bradycardia
+84,88,36.34,40.43,923.95,Hypoxia
+147,86,34.32,36.45,930.82,Hypoxia
+96,92,32.36,30.69,987.08,No Disease Detected
+141,93,39.68,25.16,1053.43,Tachycardia
+130,86,37.5,20.99,940.19,Hypoxia
+79,87,35.03,41.58,1096.05,Hypoxia
+117,96,36.8,31.32,992.19,No Disease Detected
+51,97,37.15,20.53,1002.91,Bradycardia
+113,95,32.73,25.7,1099.93,Hypertension/Hypotension
+51,97,30.14,20.74,1040.62,Bradycardia
+147,96,35.1,40.48,1060.46,Tachycardia
+53,95,39.82,34.73,958.81,Bradycardia
+108,85,36.83,29.27,1002.99,Hypoxia
+147,89,34.1,32.83,915.91,Hypoxia
+84,93,38.94,22.32,1084.18,Fever
+86,85,33.66,30.19,1058.62,Hypoxia
+115,93,31.97,40.53,948.48,Hypertension/Hypotension
+107,94,33.14,37.39,993.01,No Disease Detected
+82,93,39.14,36.79,1097.65,Fever
+108,92,31.36,35.7,1013.92,No Disease Detected
+94,98,36.9,22.77,1083.78,Hypertension/Hypotension
+85,92,30.86,42.73,1064.15,Hypertension/Hypotension
+110,98,38.56,23.53,946.62,Fever
+97,92,39.59,27.15,921.17,Fever
+81,98,35.61,37.99,919.61,Hypertension/Hypotension
+83,91,34.88,42.12,973.82,No Disease Detected
+116,87,38.13,27.3,1006.24,Hypoxia
+103,98,39.53,32.64,924.23,Fever
+87,86,31.75,27.94,1007.41,Hypoxia
+117,86,37.42,32.21,1091.07,Hypoxia
+93,91,33.38,41.55,944.07,Hypertension/Hypotension
+76,92,36.8,37.49,1094.25,Hypertension/Hypotension
+117,97,36.17,26.21,927.13,Hypertension/Hypotension
+138,89,31.77,25.19,1089.45,Hypoxia
+138,86,31.37,21.41,1049.19,Hypoxia
+127,91,37.32,42.59,937.39,Hypertension/Hypotension
+121,91,37.7,30.42,1093.94,Hypertension/Hypotension
+75,95,39.86,26.21,1019.89,Fever
+98,96,33.91,43.39,970.94,No Disease Detected
+118,98,34.91,33.42,945.66,Hypertension/Hypotension
+120,95,36.56,28.43,945.03,Hypertension/Hypotension
+144,92,30.82,41.96,935.06,Tachycardia
+113,87,31.67,29.46,1067.25,Hypoxia
+56,88,35.16,31.98,902.72,Hypoxia
+72,92,34.65,37.57,971.6,No Disease Detected
+93,86,30.02,24.39,940.15,Hypoxia
+65,94,30.35,38.79,1052.53,Hypertension/Hypotension
+136,93,36.56,39.41,1059.93,Tachycardia
+116,98,39.57,21.74,1065.95,Fever
+52,89,33.87,28.9,1056.03,Hypoxia
+111,98,36.33,44.59,1069.47,Hypertension/Hypotension
+113,93,30.14,30.93,912.33,Hypertension/Hypotension
+123,98,39.35,31.34,921.64,Fever
+115,93,34.7,25.5,1033.89,No Disease Detected
+77,85,33.31,44.93,900.35,Hypoxia
+107,99,34.03,35.01,972.86,No Disease Detected
+87,89,31.34,36.89,1039.89,Hypoxia
+63,92,39.12,26.74,1044.36,Fever
+116,92,30.45,40.49,1010.58,No Disease Detected
+79,96,38.29,34.55,1022.37,No Disease Detected
+145,100,35.89,23.77,937.58,Tachycardia
+95,85,37.56,35.42,969.22,Hypoxia
+103,92,31.97,24.92,934.6,Hypertension/Hypotension
+68,96,37.88,27.28,964.5,No Disease Detected
+66,95,39.33,25.24,948.72,Fever
+111,87,32.37,28.09,928.89,Hypoxia
+148,92,38.0,23.33,909.3,Tachycardia
+109,87,39.17,23.02,932.79,Hypoxia
+58,95,32.9,42.17,995.12,Bradycardia
+73,85,33.03,25.91,1044.53,Hypoxia
+102,99,34.54,20.46,986.04,No Disease Detected
+82,100,37.58,29.06,1048.74,No Disease Detected
+145,88,37.75,35.7,1028.76,Hypoxia
+82,98,39.35,38.17,1076.34,Fever
+69,85,31.9,22.37,939.68,Hypoxia
+128,98,30.11,39.87,987.53,No Disease Detected
+74,100,38.88,35.37,944.68,Fever
+134,95,32.41,43.12,950.24,Tachycardia
+73,92,31.29,34.56,1004.4,No Disease Detected
+138,93,30.87,29.91,1006.68,Tachycardia
+55,93,38.37,29.28,1096.43,Bradycardia
+79,90,36.5,36.02,1060.24,Hypertension/Hypotension
+146,87,30.73,44.29,1043.0,Hypoxia
+89,99,33.48,43.56,1092.83,Hypertension/Hypotension
+140,95,35.93,33.78,972.39,Tachycardia
+112,96,38.61,43.32,905.31,Fever
+87,93,31.16,42.76,1072.83,Hypertension/Hypotension
+104,86,31.85,21.32,936.49,Hypoxia
+96,95,32.19,25.99,915.61,Hypertension/Hypotension
+110,93,37.23,41.27,1047.23,No Disease Detected
+51,87,39.61,20.39,1022.31,Hypoxia
+149,89,38.56,44.91,985.99,Hypoxia
+144,90,31.2,34.35,953.12,Tachycardia
+149,88,38.98,20.9,1025.69,Hypoxia
+125,100,36.46,40.69,955.76,No Disease Detected
+147,94,40.0,41.99,961.82,Tachycardia
+87,99,32.92,31.47,1052.15,Hypertension/Hypotension
+112,85,39.53,42.66,914.55,Hypoxia
+142,92,36.24,39.47,1076.62,Tachycardia
+136,92,37.41,23.08,1093.67,Tachycardia
+74,93,39.42,27.72,1063.3,Fever
+91,96,38.14,33.96,1065.6,Hypertension/Hypotension
+143,93,33.1,27.02,1008.33,Tachycardia
+65,88,36.98,23.19,973.82,Hypoxia
+150,86,30.29,23.77,969.32,Hypoxia
+133,92,33.88,35.13,946.18,Tachycardia
+128,97,37.52,25.49,919.96,Hypertension/Hypotension
+150,86,35.07,29.79,942.29,Hypoxia
+147,98,31.68,43.17,1081.06,Tachycardia
+86,89,33.25,41.9,966.07,Hypoxia
+80,94,39.05,43.57,1009.14,Fever
+117,85,36.05,28.9,1047.18,Hypoxia
+131,93,33.52,42.14,1089.01,Tachycardia
+144,91,33.15,25.98,1071.98,Tachycardia
+80,87,35.95,44.34,998.93,Hypoxia
+67,88,36.27,33.62,1092.17,Hypoxia
+143,87,31.12,33.75,979.93,Hypoxia
+144,90,38.51,41.88,1062.68,Tachycardia
+71,91,34.22,20.93,1064.81,Hypertension/Hypotension
+84,85,39.46,36.0,956.37,Hypoxia
+125,93,37.7,30.79,915.26,Hypertension/Hypotension
+148,96,34.64,42.18,956.41,Tachycardia
+86,97,37.48,32.84,1046.8,No Disease Detected
+124,97,37.06,43.98,1086.51,Hypertension/Hypotension
+76,91,39.47,40.13,976.39,Fever
+85,98,38.37,26.54,914.56,Hypertension/Hypotension
+82,86,37.21,34.91,1075.01,Hypoxia
+84,98,34.44,41.29,1062.48,Hypertension/Hypotension
+76,90,37.1,24.17,975.22,No Disease Detected
+62,93,36.77,29.1,981.03,No Disease Detected
+109,94,33.53,23.1,990.1,No Disease Detected
+94,87,37.43,32.54,937.34,Hypoxia
+134,85,37.62,43.43,948.7,Hypoxia
+83,95,36.15,35.33,956.78,No Disease Detected
+107,91,30.33,26.9,1016.94,No Disease Detected
+148,88,36.69,39.8,1006.61,Hypoxia
+118,94,32.6,26.94,917.45,Hypertension/Hypotension
+80,87,33.32,40.53,939.17,Hypoxia
+53,91,32.93,24.13,907.41,Bradycardia
+50,87,31.68,21.74,993.95,Hypoxia
+66,95,36.28,42.91,1028.83,No Disease Detected
+148,95,33.87,40.12,910.64,Tachycardia
+51,96,39.85,24.91,970.0,Bradycardia
+80,91,36.42,24.76,1034.68,No Disease Detected
+150,97,37.41,26.51,901.49,Tachycardia
+52,87,31.74,26.73,1066.68,Hypoxia
+149,100,31.57,32.74,1084.37,Tachycardia
+136,100,31.8,27.17,919.08,Tachycardia
+50,92,31.71,38.75,959.87,Bradycardia
+111,90,36.43,22.38,1034.43,No Disease Detected
+120,91,33.95,36.79,1032.24,No Disease Detected
+147,85,32.21,20.39,1052.04,Hypoxia
+57,87,30.72,31.36,978.86,Hypoxia
+74,85,33.79,26.67,937.6,Hypoxia
+134,97,34.46,20.88,1071.58,Tachycardia
+134,92,31.85,30.83,1015.08,Tachycardia
+130,97,36.95,20.12,1007.83,No Disease Detected
+60,93,38.87,43.51,916.81,Fever
+50,85,36.4,24.87,1020.24,Hypoxia
+77,86,30.11,28.7,997.54,Hypoxia
+93,85,37.4,33.1,1061.96,Hypoxia
+90,99,31.21,33.48,1028.33,No Disease Detected
+80,96,39.58,38.24,1010.45,Fever
+53,99,32.94,37.94,906.81,Bradycardia
+96,96,33.08,22.14,1075.31,Hypertension/Hypotension
+66,94,32.21,29.09,926.25,Hypertension/Hypotension
+134,100,34.04,39.91,1052.12,Tachycardia
+136,100,38.88,31.02,913.34,Tachycardia
+76,96,30.3,35.75,907.87,Hypertension/Hypotension
+142,91,32.72,25.9,1059.99,Tachycardia
+106,86,36.32,38.36,977.0,Hypoxia
+113,96,33.45,40.35,955.06,No Disease Detected
+69,92,30.61,36.17,1054.22,Hypertension/Hypotension
+64,86,33.84,36.14,958.12,Hypoxia
+89,88,35.68,22.87,928.33,Hypoxia
+113,97,38.27,33.75,924.74,Hypertension/Hypotension
+145,98,37.14,41.78,963.28,Tachycardia
+143,97,32.92,42.31,1003.99,Tachycardia
+100,86,38.07,36.91,1008.69,Hypoxia
+107,95,33.55,44.76,965.92,No Disease Detected
+78,93,31.91,26.91,1027.53,No Disease Detected
+61,92,37.51,37.77,1088.4,Hypertension/Hypotension
+140,96,33.52,25.4,1028.81,Tachycardia
+125,96,34.21,23.11,1065.54,Hypertension/Hypotension
+87,92,31.05,21.4,1065.38,Hypertension/Hypotension
+70,90,34.7,41.49,1085.29,Hypertension/Hypotension
+55,88,30.71,41.93,1004.67,Hypoxia
+130,86,37.29,37.46,1062.85,Hypoxia
+84,90,34.32,41.62,920.52,Hypertension/Hypotension
+81,87,31.88,44.58,1034.19,Hypoxia
+58,98,38.24,25.67,901.74,Bradycardia
+99,86,30.42,41.19,912.13,Hypoxia
+91,100,34.34,29.55,904.28,Hypertension/Hypotension
+78,91,34.19,29.17,969.53,No Disease Detected
+107,100,37.43,41.74,1072.6,Hypertension/Hypotension
+66,99,33.7,42.23,1007.62,No Disease Detected
+74,94,39.04,35.18,1063.88,Fever
+94,85,34.89,30.79,968.05,Hypoxia
+130,96,35.69,23.33,1058.84,Hypertension/Hypotension
+116,91,31.79,44.62,1089.69,Hypertension/Hypotension
+54,94,33.91,38.74,1053.94,Bradycardia
+75,93,36.53,36.44,1041.93,No Disease Detected
+84,88,37.11,28.02,1030.58,Hypoxia
+93,91,32.21,23.42,997.83,No Disease Detected
+54,96,31.83,36.73,1015.95,Bradycardia
+63,91,34.3,24.7,1018.51,No Disease Detected
+92,90,36.45,29.81,987.17,No Disease Detected
+97,92,33.36,27.73,1083.84,Hypertension/Hypotension
+145,91,33.48,43.26,987.3,Tachycardia
+138,87,33.1,25.3,936.95,Hypoxia
+84,85,30.84,32.66,958.82,Hypoxia
+71,95,32.28,41.73,1038.38,No Disease Detected
+138,99,38.59,28.03,938.47,Tachycardia
+81,90,36.05,36.26,1002.69,No Disease Detected
+148,86,33.46,35.11,1090.36,Hypoxia
+142,85,31.24,40.59,1023.21,Hypoxia
+50,96,32.5,21.0,974.77,Bradycardia
+71,85,36.04,21.87,1068.41,Hypoxia
+71,89,36.16,23.96,1034.52,Hypoxia
+85,95,33.84,40.72,1004.76,No Disease Detected
+90,98,35.3,40.68,1016.84,No Disease Detected
+103,87,31.15,32.58,990.77,Hypoxia
+116,91,37.1,27.25,1020.79,No Disease Detected
+135,94,38.65,21.82,1034.62,Tachycardia
+99,97,37.12,24.13,1014.34,No Disease Detected
+75,97,36.32,25.31,922.53,Hypertension/Hypotension
+88,93,38.11,38.54,1082.55,Hypertension/Hypotension
+78,85,31.87,30.79,964.47,Hypoxia
+83,98,39.15,23.36,1060.05,Fever
+55,94,36.04,34.37,963.63,Bradycardia
+91,98,33.24,27.67,930.79,Hypertension/Hypotension
+85,90,33.45,31.79,1072.41,Hypertension/Hypotension
+74,88,30.15,39.69,954.16,Hypoxia
+79,99,33.28,38.96,931.19,Hypertension/Hypotension
+133,99,39.21,26.05,907.95,Tachycardia
+139,97,39.51,24.72,1067.89,Tachycardia
+145,93,39.35,25.3,1003.86,Tachycardia
+141,89,39.12,43.79,943.08,Hypoxia
+84,99,33.0,38.57,944.52,Hypertension/Hypotension
+57,90,35.15,24.78,1071.46,Bradycardia
+144,89,36.64,31.07,1071.47,Hypoxia
+75,95,33.65,28.62,910.34,Hypertension/Hypotension
+146,86,34.45,44.18,1002.3,Hypoxia
+78,94,36.71,36.37,918.47,Hypertension/Hypotension
+52,92,39.48,32.69,922.33,Bradycardia
+62,99,38.81,20.12,1065.86,Fever
+106,86,37.16,20.96,963.71,Hypoxia
+66,85,34.85,40.22,1092.51,Hypoxia
+143,89,34.61,28.71,992.25,Hypoxia
+62,89,39.55,32.67,927.19,Hypoxia
+102,88,34.83,38.38,1061.84,Hypoxia
+144,92,33.93,23.63,1034.68,Tachycardia
+57,85,33.89,41.18,912.63,Hypoxia
+106,91,39.46,26.74,966.7,Fever
+116,90,33.39,38.52,915.15,Hypertension/Hypotension
+57,88,35.06,33.56,1061.79,Hypoxia
+121,94,33.72,33.94,940.61,Hypertension/Hypotension
+80,90,36.74,41.37,1075.12,Hypertension/Hypotension
+87,97,32.56,36.11,1016.03,No Disease Detected
+126,86,38.05,32.36,905.79,Hypoxia
+119,89,39.22,31.68,1065.57,Hypoxia
+100,90,36.76,39.52,1018.8,No Disease Detected
+92,99,37.71,43.1,1022.69,No Disease Detected
+106,89,32.97,31.22,1037.1,Hypoxia
+51,88,37.21,24.93,1063.16,Hypoxia
+137,93,32.77,36.88,908.17,Tachycardia
+119,91,31.88,34.09,942.51,Hypertension/Hypotension
+117,89,32.1,21.9,1052.23,Hypoxia
+124,89,39.48,44.6,1099.91,Hypoxia
+145,95,34.39,37.32,976.63,Tachycardia
+150,96,38.87,35.75,1048.53,Tachycardia
+81,87,36.2,32.15,916.25,Hypoxia
+137,96,37.52,40.12,1034.56,Tachycardia
+71,88,37.4,32.28,1055.84,Hypoxia
+54,91,38.61,41.02,941.09,Bradycardia
+58,93,38.07,35.3,1055.14,Bradycardia
+77,88,36.14,41.5,958.07,Hypoxia
+137,98,30.45,21.36,983.89,Tachycardia
+63,96,31.29,41.41,1088.7,Hypertension/Hypotension
+128,87,34.99,39.75,953.75,Hypoxia
+94,98,33.44,20.23,1060.99,Hypertension/Hypotension
+95,93,31.02,28.55,1021.28,No Disease Detected
+91,92,36.38,26.61,911.29,Hypertension/Hypotension
+79,88,31.99,34.27,983.19,Hypoxia
+90,98,35.76,29.25,1021.17,No Disease Detected
+143,96,31.63,26.86,1061.59,Tachycardia
+90,87,30.87,37.33,1080.56,Hypoxia
+136,86,35.47,37.21,1089.85,Hypoxia
+90,91,32.42,29.48,924.46,Hypertension/Hypotension
+60,97,33.58,32.69,994.12,No Disease Detected
+75,86,38.98,36.7,1067.17,Hypoxia
+101,93,36.77,34.46,961.34,No Disease Detected
+98,98,33.67,31.83,972.56,No Disease Detected
+81,100,34.75,27.32,981.14,No Disease Detected
+149,97,38.74,28.11,1022.74,Tachycardia
+114,97,36.57,30.44,985.27,No Disease Detected
+114,97,31.93,36.27,950.68,No Disease Detected
+121,95,30.03,41.49,1040.84,No Disease Detected
+147,91,33.43,26.63,921.62,Tachycardia
+68,88,33.51,24.52,1051.41,Hypoxia
+83,86,33.41,27.64,1082.4,Hypoxia
+132,93,38.54,31.52,909.55,Tachycardia
+73,91,38.49,35.7,1023.88,No Disease Detected
+134,90,35.43,42.47,937.28,Tachycardia
+111,95,34.21,35.49,1094.24,Hypertension/Hypotension
+62,88,38.77,44.26,955.14,Hypoxia
+74,90,35.27,28.75,903.8,Hypertension/Hypotension
+126,98,31.34,21.9,1075.44,Hypertension/Hypotension
+63,98,35.44,37.26,962.93,No Disease Detected
+93,85,39.64,34.53,1073.5,Hypoxia
+96,94,33.19,35.94,1051.87,Hypertension/Hypotension
+74,99,37.58,44.87,945.35,Hypertension/Hypotension
+65,96,38.63,30.1,954.72,Fever
+51,90,30.39,33.58,985.05,Bradycardia
+130,97,38.01,25.56,974.48,No Disease Detected
+60,91,37.67,37.98,995.51,No Disease Detected
+111,87,33.85,20.09,1023.0,Hypoxia
+103,98,36.98,44.48,950.03,No Disease Detected
+78,90,35.68,33.53,1068.27,Hypertension/Hypotension
+118,92,32.8,22.88,1087.62,Hypertension/Hypotension
+150,93,30.19,40.34,1030.47,Tachycardia
+62,90,38.95,40.87,969.58,Fever
+132,99,37.98,31.33,915.46,Tachycardia
+82,88,37.23,38.82,1031.53,Hypoxia
+97,85,34.06,30.35,900.38,Hypoxia
+54,92,39.93,31.68,1059.98,Bradycardia
+148,93,36.39,20.08,963.59,Tachycardia
+124,85,31.73,40.89,923.6,Hypoxia
+112,97,38.52,34.08,1076.2,Fever
+138,94,32.57,38.94,1027.16,Tachycardia
+128,99,38.5,24.11,946.94,Hypertension/Hypotension
+65,98,34.78,22.57,1034.15,No Disease Detected
+140,100,37.71,34.73,920.08,Tachycardia
+104,92,39.87,43.86,1054.63,Fever
+84,99,37.95,24.25,973.39,No Disease Detected
+57,96,36.83,21.09,964.87,Bradycardia
+133,86,34.34,44.26,1073.54,Hypoxia
+101,95,35.25,39.22,943.53,Hypertension/Hypotension
+113,88,35.91,38.45,1016.64,Hypoxia
+88,94,38.46,24.15,1056.11,Hypertension/Hypotension
+146,89,35.48,37.1,950.87,Hypoxia
+141,88,35.29,44.59,1036.93,Hypoxia
+93,94,37.01,33.83,1074.88,Hypertension/Hypotension
+107,99,32.84,32.13,1017.36,No Disease Detected
+130,95,38.75,40.91,1046.99,Fever
+86,94,31.25,38.19,981.37,No Disease Detected
+112,88,34.0,20.12,916.51,Hypoxia
+132,97,38.89,28.82,985.3,Tachycardia
+96,98,39.34,29.8,902.03,Fever
+86,86,31.49,32.14,930.34,Hypoxia
+83,91,35.01,27.72,1074.35,Hypertension/Hypotension
+69,90,39.81,25.96,910.5,Fever
+129,98,36.55,23.32,1087.38,Hypertension/Hypotension
+106,98,38.71,26.78,930.9,Fever
+57,89,31.12,30.46,1025.68,Hypoxia
+88,95,37.73,20.9,918.23,Hypertension/Hypotension
+88,97,38.15,37.93,1071.76,Hypertension/Hypotension
+113,86,36.61,44.87,932.23,Hypoxia
+145,87,37.67,30.18,1085.1,Hypoxia
+82,100,39.07,39.99,1071.75,Fever
+134,86,39.25,28.68,1009.15,Hypoxia
+134,92,34.88,23.08,1086.55,Tachycardia
+149,100,37.09,25.69,901.07,Tachycardia
+132,88,31.82,29.67,984.17,Hypoxia
+128,100,30.47,30.38,1098.95,Hypertension/Hypotension
+104,89,39.33,41.12,949.72,Hypoxia
+82,98,35.03,27.31,1028.62,No Disease Detected
+80,99,39.22,42.92,1086.44,Fever
+54,89,38.0,29.89,926.14,Hypoxia
+115,93,38.03,32.07,1042.7,No Disease Detected
+69,92,30.05,32.66,1045.72,No Disease Detected
+81,92,39.94,41.66,907.3,Fever
+96,98,33.46,24.26,989.43,No Disease Detected
+142,86,38.59,37.43,933.71,Hypoxia
+106,86,34.4,31.54,1028.76,Hypoxia
+109,96,35.16,41.16,1068.96,Hypertension/Hypotension
+101,93,32.22,20.85,903.48,Hypertension/Hypotension
+91,87,34.99,44.91,975.77,Hypoxia
+145,92,39.6,23.41,945.97,Tachycardia
+92,92,32.72,39.95,980.64,No Disease Detected
+59,89,34.13,35.94,1065.85,Hypoxia
+102,94,30.2,26.33,986.79,No Disease Detected
+129,96,33.61,43.45,904.05,Hypertension/Hypotension
+128,91,38.59,42.35,1014.98,Fever
+149,91,32.8,37.93,969.5,Tachycardia
+105,89,36.77,44.86,966.69,Hypoxia
+52,92,35.68,24.53,968.69,Bradycardia
+144,94,37.97,40.13,1062.29,Tachycardia
+149,100,32.55,36.5,953.53,Tachycardia
+104,93,39.2,24.17,976.36,Fever
+137,88,30.4,43.19,1030.39,Hypoxia
+148,87,37.92,35.9,1073.19,Hypoxia
+132,97,35.39,43.94,954.87,Tachycardia
+107,89,38.53,40.64,998.46,Hypoxia
+136,98,36.41,33.03,964.95,Tachycardia
+102,90,30.94,24.42,1093.45,Hypertension/Hypotension
+84,96,39.05,28.53,1062.88,Fever
+94,98,35.35,39.0,904.86,Hypertension/Hypotension
+90,91,35.87,30.39,1037.83,No Disease Detected
+97,95,34.27,33.51,913.82,Hypertension/Hypotension
+109,95,36.45,37.7,1079.49,Hypertension/Hypotension
+68,91,39.8,31.77,952.32,Fever
+142,87,35.56,29.71,1008.76,Hypoxia
+54,94,37.53,39.97,1052.4,Bradycardia
+127,85,34.43,39.78,953.28,Hypoxia
+118,98,35.0,20.34,995.27,No Disease Detected
+106,88,35.52,27.19,1036.83,Hypoxia
+81,96,31.74,40.12,960.84,No Disease Detected
+87,87,39.27,31.41,1050.59,Hypoxia
+145,92,36.44,23.61,932.34,Tachycardia
+87,89,34.28,25.7,970.57,Hypoxia
+144,94,36.35,28.33,978.73,Tachycardia
+71,97,31.82,31.22,1021.35,No Disease Detected
+105,85,36.45,27.31,922.03,Hypoxia
+96,86,37.36,36.2,1022.81,Hypoxia
+109,100,32.78,29.21,1012.28,No Disease Detected
+140,85,32.35,30.38,916.87,Hypoxia
+64,99,32.99,41.98,958.7,No Disease Detected
+120,91,31.24,42.21,1048.72,No Disease Detected
+99,95,39.28,40.11,973.68,Fever
+138,92,34.9,27.66,1055.34,Tachycardia
+52,87,31.49,36.56,975.83,Hypoxia
+58,87,34.01,25.11,1062.62,Hypoxia
+108,89,31.62,24.34,940.19,Hypoxia
+59,99,38.76,40.3,1029.21,Bradycardia
+68,90,39.69,25.65,1004.02,Fever
+145,85,30.98,22.25,1073.22,Hypoxia
+89,97,30.59,37.95,1065.79,Hypertension/Hypotension
+135,91,37.13,21.16,1014.63,Tachycardia
+95,97,39.15,21.14,975.95,Fever
+51,96,38.41,28.49,1094.85,Bradycardia
+97,93,30.01,33.68,982.83,No Disease Detected
+118,97,31.64,32.86,1092.01,Hypertension/Hypotension
+149,98,36.87,44.93,1019.93,Tachycardia
+83,95,36.12,39.66,1082.5,Hypertension/Hypotension
+72,93,37.78,41.8,1041.15,No Disease Detected
+114,87,37.48,32.26,1052.62,Hypoxia
+117,91,30.59,33.67,991.54,No Disease Detected
+96,91,39.56,26.31,961.77,Fever
+98,86,35.23,21.78,1050.06,Hypoxia
+77,89,34.72,36.35,1062.46,Hypoxia
+52,99,36.03,37.26,1058.43,Bradycardia
+149,95,36.12,22.94,979.99,Tachycardia
+87,94,37.85,25.43,1016.2,No Disease Detected
+111,96,34.56,38.26,921.59,Hypertension/Hypotension
+77,95,35.33,39.78,1060.48,Hypertension/Hypotension
+108,88,36.5,32.61,935.62,Hypoxia
+94,88,35.51,26.88,1080.21,Hypoxia
+80,99,39.68,34.27,1072.34,Fever
+66,92,33.71,38.56,1041.24,No Disease Detected
+68,99,34.11,39.47,1084.35,Hypertension/Hypotension
+78,89,37.32,23.35,1090.94,Hypoxia
+67,91,32.09,27.85,972.95,No Disease Detected
+117,90,37.02,34.59,1064.61,Hypertension/Hypotension
+130,88,38.08,38.36,1045.29,Hypoxia
+136,87,35.82,22.05,977.08,Hypoxia
+97,92,34.37,23.5,1088.1,Hypertension/Hypotension
+123,91,35.98,33.55,1070.57,Hypertension/Hypotension
+139,95,32.67,23.95,904.25,Tachycardia
+129,88,39.87,43.64,961.15,Hypoxia
+62,98,33.59,43.24,1052.55,Hypertension/Hypotension
+91,92,31.05,44.91,923.99,Hypertension/Hypotension
+65,98,38.97,33.03,1054.43,Fever
+99,96,31.6,25.66,1057.44,Hypertension/Hypotension
+90,99,31.44,37.44,927.32,Hypertension/Hypotension
+63,90,31.97,39.65,954.46,No Disease Detected
+129,99,37.59,40.57,929.72,Hypertension/Hypotension
+88,87,31.68,38.65,1086.43,Hypoxia
+133,99,31.16,33.38,971.59,Tachycardia
+80,88,30.75,39.93,961.72,Hypoxia
+127,97,38.38,35.26,1078.19,Hypertension/Hypotension
+87,94,36.39,27.07,900.9,Hypertension/Hypotension
+72,97,30.18,44.19,1022.54,No Disease Detected
+90,100,32.69,44.8,1070.61,Hypertension/Hypotension
+62,96,34.3,38.04,1035.78,No Disease Detected
+82,88,35.89,28.32,926.94,Hypoxia
+86,94,36.83,29.55,999.69,No Disease Detected
+117,99,30.11,26.6,942.25,Hypertension/Hypotension
+75,86,34.93,21.57,1077.01,Hypoxia
+91,100,34.78,42.28,1063.44,Hypertension/Hypotension
+100,95,39.4,31.08,1078.77,Fever
+150,100,39.49,34.41,902.95,Tachycardia
+131,90,36.9,30.62,932.98,Tachycardia
+145,99,38.46,25.45,1080.48,Tachycardia
+53,97,31.76,42.4,934.25,Bradycardia
+55,91,39.62,36.65,1007.32,Bradycardia
+87,86,36.87,38.74,1019.9,Hypoxia
+54,100,35.2,25.8,911.86,Bradycardia
+53,95,39.44,30.78,1062.91,Bradycardia
+147,98,36.37,42.51,1050.29,Tachycardia
+99,100,37.0,35.12,904.4,Hypertension/Hypotension
+124,87,34.05,37.98,985.19,Hypoxia
+55,96,38.28,27.82,952.84,Bradycardia
+113,97,39.33,29.89,1082.74,Fever
+107,85,31.76,24.21,1071.97,Hypoxia
+116,100,34.59,41.38,962.4,No Disease Detected
+80,91,35.48,38.79,923.69,Hypertension/Hypotension
+131,89,31.82,37.07,1082.4,Hypoxia
+126,98,36.6,37.2,901.96,Hypertension/Hypotension
+96,100,36.98,40.59,980.74,No Disease Detected
+147,86,31.33,29.7,967.75,Hypoxia
+91,98,32.05,26.52,1075.8,Hypertension/Hypotension
+126,85,38.87,39.72,1032.43,Hypoxia
+79,90,33.25,41.64,910.32,Hypertension/Hypotension
+56,93,36.8,29.43,984.52,Bradycardia
+103,100,34.58,31.47,1039.73,No Disease Detected
+84,96,31.28,22.02,1018.49,No Disease Detected
+82,96,34.21,38.66,953.3,No Disease Detected
+109,89,31.34,43.6,1022.46,Hypoxia
+144,86,34.29,40.26,986.05,Hypoxia
+123,86,37.75,31.19,929.15,Hypoxia
+120,95,32.87,42.43,1027.82,No Disease Detected
+70,100,38.81,32.01,966.8,Fever
+91,94,30.68,30.89,919.6,Hypertension/Hypotension
+114,85,31.03,41.22,990.17,Hypoxia
+128,85,35.82,28.62,958.79,Hypoxia
+78,95,30.87,38.13,1068.59,Hypertension/Hypotension
+140,97,36.04,34.78,1097.3,Tachycardia
+136,91,30.92,40.34,1093.5,Tachycardia
+119,97,30.18,34.36,1062.93,Hypertension/Hypotension
+114,98,38.5,42.67,1040.81,No Disease Detected
+67,85,33.27,22.34,1068.84,Hypoxia
+94,98,33.68,43.53,972.39,No Disease Detected
+108,86,35.12,41.06,1037.92,Hypoxia
+66,97,35.09,33.85,1043.53,No Disease Detected
+90,87,32.26,28.44,974.55,Hypoxia
+96,88,36.2,34.14,922.23,Hypoxia
+114,100,38.89,20.4,923.93,Fever
+76,98,37.3,40.37,1005.96,No Disease Detected
+71,87,33.42,25.33,956.54,Hypoxia
+96,88,31.91,20.45,1010.61,Hypoxia
+78,88,34.19,34.88,1079.34,Hypoxia
+99,88,32.5,28.03,1089.56,Hypoxia
+116,88,33.2,39.57,964.74,Hypoxia
+109,94,34.96,33.88,920.52,Hypertension/Hypotension
+137,97,37.76,42.51,953.14,Tachycardia
+104,98,30.13,29.81,1061.52,Hypertension/Hypotension
+95,86,31.85,34.38,1021.1,Hypoxia
+141,87,36.11,34.61,911.86,Hypoxia
+52,97,33.24,22.61,1068.16,Bradycardia
+119,100,30.08,31.23,1001.34,No Disease Detected
+84,86,33.96,27.79,1070.06,Hypoxia
+88,91,32.72,44.7,1010.04,No Disease Detected
+53,95,30.94,38.32,1071.08,Bradycardia
+72,95,33.26,34.35,902.44,Hypertension/Hypotension
+53,85,34.3,32.22,903.2,Hypoxia
+105,92,39.28,43.96,1024.77,Fever
+114,89,33.06,32.77,923.4,Hypoxia
+73,98,31.59,23.53,947.9,Hypertension/Hypotension
+132,100,36.28,40.96,922.47,Tachycardia
+136,90,35.85,21.51,1034.69,Tachycardia
+77,89,32.71,25.96,937.25,Hypoxia
+61,89,30.16,31.66,1016.87,Hypoxia
+89,95,35.72,28.83,1045.24,No Disease Detected
+95,88,37.3,26.01,947.1,Hypoxia
+126,86,34.69,25.68,1023.55,Hypoxia
+102,91,33.16,31.11,938.64,Hypertension/Hypotension
+141,98,33.75,35.84,907.53,Tachycardia
+132,95,35.48,30.68,985.66,Tachycardia
+132,88,31.86,30.88,994.12,Hypoxia
+112,100,37.01,25.24,934.29,Hypertension/Hypotension
+86,93,39.99,26.48,1005.29,Fever
+81,91,38.52,37.11,1095.72,Fever
+105,90,33.23,23.45,1038.41,No Disease Detected
+50,100,30.91,43.83,919.89,Bradycardia
+115,91,37.18,20.98,1072.25,Hypertension/Hypotension
+65,93,38.48,30.58,962.04,No Disease Detected
+90,89,30.82,38.36,1050.65,Hypoxia
+110,91,30.17,37.55,982.15,No Disease Detected
+131,100,33.61,30.88,972.7,Tachycardia
+129,85,31.11,24.46,1014.03,Hypoxia
+80,94,39.02,37.37,916.14,Fever
+131,97,33.93,22.91,1034.47,Tachycardia
+65,94,34.91,26.22,1014.94,No Disease Detected
+129,90,34.5,43.08,918.53,Hypertension/Hypotension
+149,92,39.21,40.04,1045.52,Tachycardia
+142,95,35.19,34.16,909.95,Tachycardia
+96,89,31.01,42.15,979.25,Hypoxia
+91,98,35.06,31.29,901.91,Hypertension/Hypotension
+51,86,38.17,44.63,989.13,Hypoxia
+137,87,34.56,27.02,900.73,Hypoxia
+104,99,39.54,36.8,1081.63,Fever
+114,99,35.19,35.96,1091.85,Hypertension/Hypotension
+139,96,30.41,29.5,956.65,Tachycardia
+54,89,33.05,31.39,1052.51,Hypoxia
+61,93,38.0,22.68,991.27,No Disease Detected
+118,85,31.98,43.97,960.49,Hypoxia
+125,96,38.17,41.57,966.81,No Disease Detected
+128,85,31.25,28.06,940.08,Hypoxia
+109,85,34.02,21.07,1057.37,Hypoxia
+112,88,30.73,30.96,1095.87,Hypoxia
+67,95,36.47,25.2,903.6,Hypertension/Hypotension
+126,96,33.4,36.45,930.14,Hypertension/Hypotension
+67,91,38.48,41.89,906.42,Hypertension/Hypotension
+119,95,32.78,24.39,1086.02,Hypertension/Hypotension
+68,89,32.22,42.84,949.92,Hypoxia
+98,86,33.29,42.03,938.43,Hypoxia
+94,98,37.47,29.98,975.79,No Disease Detected
+105,86,32.06,31.42,1019.39,Hypoxia
+117,91,34.98,22.61,1016.18,No Disease Detected
+51,95,30.18,21.57,985.76,Bradycardia
+92,87,35.99,20.82,980.17,Hypoxia
+108,90,33.05,41.98,959.85,No Disease Detected
+138,100,38.72,33.7,986.76,Tachycardia
+105,86,38.27,20.88,1069.63,Hypoxia
+144,95,38.37,24.02,1060.69,Tachycardia
+76,89,39.16,26.01,1092.03,Hypoxia
+123,96,30.06,44.57,918.74,Hypertension/Hypotension
+136,88,30.48,37.69,1058.76,Hypoxia
+69,86,33.86,37.11,1023.36,Hypoxia
+80,100,39.47,25.33,973.07,Fever
+56,92,35.31,31.47,1069.84,Bradycardia
+78,97,39.06,38.2,935.23,Fever
+58,95,39.55,30.2,1012.35,Bradycardia
+60,86,39.75,35.92,932.24,Hypoxia
+144,97,36.72,23.72,951.09,Tachycardia
+83,91,31.18,41.54,957.81,No Disease Detected
+82,97,36.3,28.35,971.33,No Disease Detected
+92,92,33.02,38.23,1002.9,No Disease Detected
+85,97,36.7,24.81,916.64,Hypertension/Hypotension
+62,98,36.09,36.14,947.37,Hypertension/Hypotension
+61,94,32.68,41.26,1095.06,Hypertension/Hypotension
+135,99,31.99,44.49,1052.66,Tachycardia
+59,93,34.45,25.75,905.84,Bradycardia
+123,87,34.21,40.09,1050.33,Hypoxia
+83,87,35.93,35.24,1040.16,Hypoxia
+84,87,39.48,29.02,931.09,Hypoxia
+135,90,37.3,36.93,999.28,Tachycardia
+108,85,37.96,20.42,1042.36,Hypoxia
+146,97,34.02,30.3,1002.88,Tachycardia
+116,95,32.44,33.17,945.71,Hypertension/Hypotension
+133,93,37.11,25.21,928.03,Tachycardia
+103,100,36.39,31.58,1085.09,Hypertension/Hypotension
+62,94,30.56,38.56,1093.39,Hypertension/Hypotension
+146,95,33.75,26.52,1094.61,Tachycardia
+149,88,37.42,40.68,1029.37,Hypoxia
+94,99,39.68,32.92,982.2,Fever
+139,88,30.93,30.5,940.01,Hypoxia
+69,88,35.65,28.35,1018.69,Hypoxia
+110,100,32.42,34.16,1011.04,No Disease Detected
+107,89,33.6,28.46,960.84,Hypoxia
+102,95,36.71,42.85,949.86,Hypertension/Hypotension
+133,98,32.07,36.13,1056.49,Tachycardia
+83,97,39.0,39.61,981.05,Fever
+123,99,30.61,34.24,1059.39,Hypertension/Hypotension
+127,90,31.62,35.37,913.73,Hypertension/Hypotension
+143,94,35.58,26.31,997.99,Tachycardia
+83,99,37.55,27.97,1020.49,No Disease Detected
+123,89,38.33,34.75,1045.99,Hypoxia
+130,90,35.98,38.94,1021.56,No Disease Detected
+69,93,31.23,20.02,934.87,Hypertension/Hypotension
+149,96,30.07,43.1,1073.68,Tachycardia
+63,93,34.5,23.45,1052.79,Hypertension/Hypotension
+93,85,33.96,38.31,1056.47,Hypoxia
+142,87,31.68,39.38,916.11,Hypoxia
+73,94,37.84,41.3,1069.68,Hypertension/Hypotension
+113,87,36.9,29.15,1053.88,Hypoxia
+92,88,39.72,35.32,1008.6,Hypoxia
+105,88,36.61,35.7,966.21,Hypoxia
+63,86,35.97,22.42,1040.79,Hypoxia
+78,90,32.62,30.4,1030.83,No Disease Detected
+142,90,30.89,34.63,992.75,Tachycardia
+132,85,35.22,21.11,934.49,Hypoxia
+130,87,38.52,21.95,1021.33,Hypoxia
+57,97,37.68,27.15,1047.32,Bradycardia
+71,90,35.05,34.77,918.06,Hypertension/Hypotension
+70,86,37.08,39.31,1011.9,Hypoxia
+96,92,35.24,24.4,924.87,Hypertension/Hypotension
+84,89,32.93,25.55,933.92,Hypoxia
+150,98,34.6,41.08,927.26,Tachycardia
+112,85,38.94,31.87,902.26,Hypoxia
+105,93,35.79,40.58,1037.02,No Disease Detected
+97,97,30.48,34.84,966.64,No Disease Detected
+97,100,30.48,25.64,952.15,No Disease Detected
+116,89,39.49,44.59,1030.67,Hypoxia
+128,92,37.14,22.81,1043.64,No Disease Detected
+149,87,37.17,25.01,1025.98,Hypoxia
+110,87,37.45,36.06,962.93,Hypoxia
+87,98,38.37,40.2,1071.4,Hypertension/Hypotension
+60,88,38.53,34.32,954.25,Hypoxia
+142,89,37.14,44.76,964.14,Hypoxia
+97,96,35.91,22.51,977.51,No Disease Detected
+107,94,30.78,22.96,1091.71,Hypertension/Hypotension
+67,89,38.39,27.22,1029.82,Hypoxia
+91,89,35.59,26.9,1006.17,Hypoxia
+146,100,32.79,31.7,1057.91,Tachycardia
+149,97,33.36,21.41,1004.31,Tachycardia
+63,85,39.73,35.44,982.04,Hypoxia
+120,95,36.5,29.16,1005.32,No Disease Detected
+58,88,31.71,38.93,925.23,Hypoxia
+76,87,38.6,37.42,990.51,Hypoxia
+67,92,34.48,27.67,985.06,No Disease Detected
+121,96,31.08,44.86,984.64,No Disease Detected
+136,85,33.85,38.44,1014.08,Hypoxia
+55,92,33.28,35.92,1060.16,Bradycardia
+64,92,32.58,40.98,1053.98,Hypertension/Hypotension
+69,90,39.93,33.49,1077.13,Fever
+141,88,31.95,42.34,1078.17,Hypoxia
+73,92,33.48,43.57,1042.24,No Disease Detected
+63,89,34.59,24.27,982.26,Hypoxia
+140,88,30.81,40.17,916.61,Hypoxia
+137,91,39.38,41.99,916.64,Tachycardia
+79,95,31.9,20.72,993.3,No Disease Detected
+122,95,32.15,29.82,1057.71,Hypertension/Hypotension
+133,88,37.62,35.05,1066.0,Hypoxia
+120,87,32.22,44.27,1042.87,Hypoxia
+51,85,33.14,43.37,954.21,Hypoxia
+117,97,37.13,22.3,1081.84,Hypertension/Hypotension
+59,86,35.33,41.12,1079.48,Hypoxia
+76,87,39.15,38.11,1029.46,Hypoxia
+57,98,32.29,32.35,952.34,Bradycardia
+117,90,31.82,35.12,1008.7,No Disease Detected
+87,89,36.62,24.91,952.18,Hypoxia
+117,100,36.39,29.29,994.27,No Disease Detected
+125,89,31.38,26.7,962.04,Hypoxia
+135,99,31.3,39.8,927.99,Tachycardia
+124,93,33.53,38.9,962.32,No Disease Detected
+65,93,34.04,39.0,1060.81,Hypertension/Hypotension
+61,94,36.73,39.43,929.7,Hypertension/Hypotension
+68,98,35.78,27.64,937.75,Hypertension/Hypotension
+67,98,35.89,37.66,931.08,Hypertension/Hypotension
+70,98,38.6,24.72,1002.42,Fever
+148,93,32.74,20.83,992.75,Tachycardia
+130,88,35.65,32.7,907.66,Hypoxia
+75,100,37.88,25.0,945.26,Hypertension/Hypotension
+113,96,34.46,20.44,980.98,No Disease Detected
+136,93,35.5,23.53,913.04,Tachycardia
+119,94,31.81,33.07,1073.87,Hypertension/Hypotension
+67,92,34.57,29.73,971.95,No Disease Detected
+125,99,33.71,32.72,985.5,No Disease Detected
+52,89,30.43,40.91,937.21,Hypoxia
+64,87,37.92,24.27,915.57,Hypoxia
+118,90,39.2,38.15,1095.44,Fever
+105,96,36.24,22.83,954.23,No Disease Detected
+98,95,39.3,22.27,1078.57,Fever
+121,90,34.76,37.53,1013.9,No Disease Detected
+78,92,35.62,28.82,1088.01,Hypertension/Hypotension
+145,97,35.05,30.97,992.22,Tachycardia
+132,100,36.81,41.39,1023.32,Tachycardia
+59,100,31.26,22.35,1097.54,Bradycardia
+82,93,31.85,37.68,1092.65,Hypertension/Hypotension
+98,95,35.29,30.13,916.13,Hypertension/Hypotension
+144,90,33.11,29.38,1059.84,Tachycardia
+106,87,36.52,40.04,1096.79,Hypoxia
+54,87,34.19,34.34,1028.31,Hypoxia
+52,85,31.84,23.99,1013.73,Hypoxia
+94,91,36.45,23.17,986.98,No Disease Detected
+145,91,34.98,37.42,973.56,Tachycardia
+147,88,37.52,27.97,973.06,Hypoxia
+144,85,36.75,22.23,911.05,Hypoxia
+136,93,33.81,34.0,1078.97,Tachycardia
+105,92,32.77,33.92,1062.75,Hypertension/Hypotension
+51,99,30.35,20.99,1010.66,Bradycardia
+118,85,38.21,22.59,1003.69,Hypoxia
+102,88,30.66,44.71,1071.02,Hypoxia
+76,96,39.19,29.42,1046.05,Fever
+150,99,39.56,25.24,909.51,Tachycardia
+50,99,30.32,34.35,912.97,Bradycardia
+73,88,31.36,23.02,1039.03,Hypoxia
+62,89,36.79,36.56,974.59,Hypoxia
+132,91,33.34,38.71,926.42,Tachycardia
+119,89,31.06,40.44,965.61,Hypoxia
+119,91,36.45,23.98,1003.36,No Disease Detected
+59,86,32.46,23.44,1061.29,Hypoxia
+82,90,37.3,25.22,1019.75,No Disease Detected
+98,86,37.41,39.88,1043.72,Hypoxia
+88,96,39.02,20.13,1042.47,Fever
+113,98,35.2,29.2,911.01,Hypertension/Hypotension
+136,99,31.6,32.5,917.44,Tachycardia
+139,86,37.47,32.52,920.82,Hypoxia
+68,98,34.56,33.66,903.24,Hypertension/Hypotension
+150,100,35.25,24.45,1056.85,Tachycardia
+81,89,30.72,34.03,993.45,Hypoxia
+148,90,34.63,44.38,1073.64,Tachycardia
+87,90,35.81,35.98,1074.21,Hypertension/Hypotension
+131,91,39.13,38.55,1001.55,Tachycardia
+126,95,33.85,36.24,953.25,No Disease Detected
+146,91,30.47,24.06,910.84,Tachycardia
+77,91,33.23,30.73,1032.74,No Disease Detected
+63,96,38.17,25.0,905.11,Hypertension/Hypotension
+111,94,30.57,34.45,908.47,Hypertension/Hypotension
+104,93,30.22,25.29,918.76,Hypertension/Hypotension
+109,94,38.56,23.63,1033.9,Fever
+81,100,34.95,41.28,967.64,No Disease Detected
+139,94,37.0,28.4,942.94,Tachycardia
+130,97,38.95,44.41,957.67,Fever
+100,96,36.24,27.51,966.35,No Disease Detected
+68,90,34.55,25.5,1037.15,No Disease Detected
+69,87,37.83,38.2,914.0,Hypoxia
+72,94,36.54,39.18,939.8,Hypertension/Hypotension
+70,96,31.65,24.31,1076.11,Hypertension/Hypotension
+121,99,39.02,34.68,1061.79,Fever
+57,94,32.22,30.21,903.92,Bradycardia
+74,90,33.21,29.46,1062.88,Hypertension/Hypotension
+63,97,37.63,28.64,950.0,No Disease Detected
+132,90,31.65,29.53,1086.35,Tachycardia
+80,90,39.31,38.27,950.49,Fever
+116,100,31.9,20.87,999.0,No Disease Detected
+134,92,35.21,31.33,1063.06,Tachycardia
+110,90,39.76,37.34,980.23,Fever
+92,89,39.4,30.39,967.76,Hypoxia
+108,98,36.48,28.01,1086.35,Hypertension/Hypotension
+143,89,32.83,22.01,1048.78,Hypoxia
+97,87,36.53,28.4,987.14,Hypoxia
+55,96,33.62,25.14,993.56,Bradycardia
+71,96,33.77,41.83,922.54,Hypertension/Hypotension
+130,87,34.82,41.09,982.97,Hypoxia
+117,86,38.34,33.86,939.28,Hypoxia
+135,98,36.32,42.24,973.5,Tachycardia
+126,86,31.3,29.06,1017.62,Hypoxia
+67,86,39.1,28.98,1020.21,Hypoxia
+90,91,39.85,32.11,1046.28,Fever
+130,95,34.89,22.19,1051.16,Hypertension/Hypotension
+119,100,38.91,29.08,951.47,Fever
+99,88,34.07,25.78,973.04,Hypoxia
+87,87,36.98,44.86,1050.49,Hypoxia
+115,85,30.33,32.72,939.47,Hypoxia
+120,86,34.28,27.91,1043.12,Hypoxia
+132,88,39.33,35.38,948.5,Hypoxia
+68,87,39.48,22.18,1018.68,Hypoxia
+128,93,31.88,22.62,966.13,No Disease Detected
+139,98,30.58,36.12,1024.75,Tachycardia
+135,85,34.53,34.14,911.84,Hypoxia
+148,99,38.98,44.91,1067.02,Tachycardia
+71,90,39.08,29.77,908.27,Fever
+79,91,31.54,44.56,928.7,Hypertension/Hypotension
+77,98,33.49,44.99,977.14,No Disease Detected
+119,92,35.6,24.16,1062.79,Hypertension/Hypotension
+97,92,37.93,40.91,966.96,No Disease Detected
+84,85,33.18,38.2,1006.54,Hypoxia
+85,94,36.01,28.09,977.45,No Disease Detected
+126,91,38.55,43.62,954.17,Fever
+107,97,30.56,29.71,934.12,Hypertension/Hypotension
+107,98,33.44,28.91,998.9,No Disease Detected
+138,94,39.44,30.94,975.2,Tachycardia
+139,99,34.52,23.66,978.81,Tachycardia
+120,87,37.19,24.49,916.91,Hypoxia
+133,93,39.34,23.63,1080.48,Tachycardia
+75,100,36.42,34.32,1096.4,Hypertension/Hypotension
+56,98,30.82,41.54,938.41,Bradycardia
+141,92,32.31,23.32,964.08,Tachycardia
+146,97,34.3,23.24,1061.02,Tachycardia
+74,95,36.24,25.08,1081.52,Hypertension/Hypotension
+105,87,31.24,23.72,1060.93,Hypoxia
+147,85,37.7,43.86,944.9,Hypoxia
+71,93,36.01,29.07,905.36,Hypertension/Hypotension
+84,95,33.62,38.18,969.19,No Disease Detected
+90,91,32.91,26.71,905.33,Hypertension/Hypotension
+125,89,32.8,25.01,1020.48,Hypoxia
+120,100,31.89,44.34,937.03,Hypertension/Hypotension
+150,94,34.54,36.81,1031.74,Tachycardia
+142,95,36.87,35.36,914.09,Tachycardia
+149,94,37.38,42.72,951.82,Tachycardia
+146,87,31.82,32.36,1014.95,Hypoxia
+138,100,38.61,20.54,928.45,Tachycardia
+64,90,31.72,35.08,1033.84,No Disease Detected
+74,86,39.93,40.24,995.14,Hypoxia
+137,89,37.57,34.49,1010.2,Hypoxia
+62,88,39.48,33.13,963.69,Hypoxia
+114,90,39.0,37.13,997.76,Fever
+72,95,35.43,33.65,1051.87,Hypertension/Hypotension
+68,99,36.06,38.66,991.57,No Disease Detected
+92,98,39.02,21.25,1065.53,Fever
+149,94,36.88,41.9,972.02,Tachycardia
+119,98,36.65,38.98,973.13,No Disease Detected
+88,92,39.14,41.44,1079.51,Fever
+69,93,32.28,36.99,962.86,No Disease Detected
+73,91,32.52,25.63,944.22,Hypertension/Hypotension
+67,85,34.46,44.9,1088.88,Hypoxia
+146,90,39.53,33.7,908.56,Tachycardia
+107,86,39.22,41.04,995.81,Hypoxia
+73,98,35.69,39.86,929.49,Hypertension/Hypotension
+51,85,37.78,42.78,1000.66,Hypoxia
+114,94,30.51,23.93,971.73,No Disease Detected
+145,99,39.68,27.37,1060.43,Tachycardia
+143,99,33.22,26.6,912.79,Tachycardia
+77,99,35.62,28.54,1084.93,Hypertension/Hypotension
+140,87,39.17,21.04,1083.93,Hypoxia
+91,98,36.55,39.38,1008.51,No Disease Detected
+109,87,37.98,29.42,939.77,Hypoxia
+99,94,38.81,31.47,1054.02,Fever
+66,98,35.32,42.87,951.78,No Disease Detected
+118,85,30.85,35.05,972.94,Hypoxia
+83,93,39.57,39.2,915.32,Fever
+67,97,30.42,22.9,971.71,No Disease Detected
+59,88,35.89,41.71,956.05,Hypoxia
+108,94,37.95,29.88,939.01,Hypertension/Hypotension
+53,90,35.16,44.61,944.2,Bradycardia
+150,97,37.39,29.69,1066.49,Tachycardia
+132,91,37.38,37.65,908.19,Tachycardia
+133,96,37.14,40.27,1049.42,Tachycardia
+136,91,36.21,44.1,936.98,Tachycardia
+81,95,30.59,27.22,933.54,Hypertension/Hypotension
+50,85,32.33,42.22,1091.38,Hypoxia
+125,86,39.12,32.27,985.31,Hypoxia
+86,86,39.67,31.65,988.74,Hypoxia
+62,99,38.48,28.05,1054.92,Hypertension/Hypotension
+94,87,37.01,30.05,1035.21,Hypoxia
+112,95,39.25,38.07,1065.97,Fever
+75,87,36.48,43.81,1016.35,Hypoxia
+52,96,30.71,29.42,1011.83,Bradycardia
+82,89,35.79,21.42,1088.78,Hypoxia
+84,87,37.9,32.5,994.17,Hypoxia
+105,91,33.56,22.68,1009.93,No Disease Detected
+110,92,35.61,31.17,1000.23,No Disease Detected
+55,88,39.51,43.87,1060.81,Hypoxia
+114,87,37.74,44.45,988.51,Hypoxia
+88,86,37.61,41.22,989.7,Hypoxia
+70,93,34.92,36.42,1007.9,No Disease Detected
+53,97,36.75,24.36,1098.44,Bradycardia
+72,91,35.85,29.66,1006.02,No Disease Detected
+142,95,30.66,30.7,915.97,Tachycardia
+128,85,40.0,29.62,955.06,Hypoxia
+112,93,32.64,41.46,999.06,No Disease Detected
+112,90,30.75,23.57,931.32,Hypertension/Hypotension
+102,99,35.45,31.88,957.79,No Disease Detected
+55,97,37.51,43.9,1043.76,Bradycardia
+97,98,36.96,38.13,1042.5,No Disease Detected
+59,90,39.68,24.41,991.67,Bradycardia
+76,93,31.52,26.0,1024.61,No Disease Detected
+63,100,38.82,38.29,959.62,Fever
+70,99,31.76,29.99,1014.45,No Disease Detected
+67,92,33.55,24.0,994.93,No Disease Detected
+127,85,31.61,44.48,948.62,Hypoxia
+127,97,38.96,28.6,1046.11,Fever
+102,90,31.87,26.17,971.14,No Disease Detected
+93,90,31.38,32.36,1090.75,Hypertension/Hypotension
+90,90,38.8,44.68,991.98,Fever
+65,85,35.33,32.6,971.34,Hypoxia
+81,95,32.07,35.3,1043.61,No Disease Detected
+123,99,36.96,22.99,1063.43,Hypertension/Hypotension
+94,89,38.21,41.88,988.14,Hypoxia
+137,99,37.53,39.39,945.02,Tachycardia
+143,97,34.86,24.09,1060.51,Tachycardia
+82,97,30.67,41.35,943.46,Hypertension/Hypotension
+69,96,39.52,39.35,983.85,Fever
+50,97,38.42,23.37,1092.98,Bradycardia
+115,89,30.31,28.48,1020.61,Hypoxia
+52,87,33.68,35.47,1093.16,Hypoxia
+86,94,32.68,38.6,1018.18,No Disease Detected
+130,91,36.37,38.83,958.63,No Disease Detected
+127,100,31.46,42.67,947.51,Hypertension/Hypotension
+119,100,36.96,24.35,1041.88,No Disease Detected
+73,90,39.04,28.11,927.61,Fever
+79,94,31.51,33.73,970.95,No Disease Detected
+149,90,32.75,42.2,1083.12,Tachycardia
+94,85,37.26,42.29,1095.12,Hypoxia
+120,97,33.92,39.01,903.93,Hypertension/Hypotension
+110,98,30.33,43.37,1075.91,Hypertension/Hypotension
+59,89,34.91,21.26,902.19,Hypoxia
+99,97,31.32,37.35,1079.6,Hypertension/Hypotension
+78,87,34.95,33.31,967.1,Hypoxia
+98,89,34.55,29.5,962.36,Hypoxia
+101,100,35.28,32.92,1017.09,No Disease Detected
+89,85,34.63,22.57,991.1,Hypoxia
+134,98,38.38,41.67,979.27,Tachycardia
+96,87,30.46,37.09,1023.54,Hypoxia
+123,97,32.32,44.29,933.04,Hypertension/Hypotension
+94,92,35.8,42.19,1068.75,Hypertension/Hypotension
+95,90,39.34,25.59,945.38,Fever
+99,89,30.48,24.58,927.19,Hypoxia
+141,85,33.87,42.08,934.78,Hypoxia
+87,91,39.15,21.03,1004.55,Fever
+74,90,31.38,44.1,1021.05,No Disease Detected
+96,93,33.47,39.15,1064.44,Hypertension/Hypotension
+81,91,36.79,30.41,930.12,Hypertension/Hypotension
+102,86,39.18,27.24,1070.0,Hypoxia
+128,95,33.24,44.89,991.41,No Disease Detected
+110,90,32.83,37.87,941.16,Hypertension/Hypotension
+63,98,39.63,27.44,963.26,Fever
+90,89,34.25,27.02,1039.0,Hypoxia
+107,98,39.71,25.44,912.43,Fever
+69,91,33.31,30.03,1055.37,Hypertension/Hypotension
+118,89,39.21,31.48,1097.64,Hypoxia
+98,97,31.96,33.04,981.13,No Disease Detected
+83,85,37.37,41.07,1081.63,Hypoxia
+55,98,30.23,39.75,962.78,Bradycardia
+93,88,35.22,35.59,907.57,Hypoxia
+89,94,30.46,35.45,907.73,Hypertension/Hypotension
+70,96,38.22,37.64,941.13,Hypertension/Hypotension
+82,93,31.87,38.01,1063.34,Hypertension/Hypotension
+79,88,33.22,29.63,1098.84,Hypoxia
+93,97,36.47,29.63,1038.83,No Disease Detected
+51,92,32.22,35.21,929.15,Bradycardia
+120,89,39.65,22.09,925.76,Hypoxia
+95,90,30.49,21.11,1052.95,Hypertension/Hypotension
+79,89,32.12,31.26,932.23,Hypoxia
+128,86,39.37,41.32,937.26,Hypoxia
+103,89,34.65,36.19,952.32,Hypoxia
+58,88,35.37,42.28,979.69,Hypoxia
+85,98,35.99,43.99,923.05,Hypertension/Hypotension
+75,89,38.54,36.75,1018.01,Hypoxia
+130,94,33.7,39.2,970.92,No Disease Detected
+120,90,38.84,23.45,1061.79,Fever
+118,90,36.03,41.61,990.7,No Disease Detected
+64,96,39.12,20.29,948.07,Fever
+84,89,33.82,33.61,913.53,Hypoxia
+107,92,31.3,30.28,913.83,Hypertension/Hypotension
+75,85,32.71,23.61,944.74,Hypoxia
+62,87,31.68,22.06,1072.17,Hypoxia
+77,85,32.88,22.61,1046.88,Hypoxia
+117,100,33.11,27.35,1005.35,No Disease Detected
+140,100,33.16,25.73,1019.34,Tachycardia
+111,86,31.35,27.26,973.96,Hypoxia
+85,94,34.33,37.36,923.27,Hypertension/Hypotension
+144,88,37.98,43.96,984.61,Hypoxia
+124,95,35.25,33.09,926.1,Hypertension/Hypotension
+98,86,33.31,36.74,1081.36,Hypoxia
+53,99,36.39,23.43,964.23,Bradycardia
+147,96,38.19,21.86,1014.07,Tachycardia
+99,92,34.83,20.97,1010.12,No Disease Detected
+133,93,31.1,20.4,907.9,Tachycardia
+55,100,37.54,36.59,1030.72,Bradycardia
+79,94,37.0,24.4,1086.13,Hypertension/Hypotension
+111,93,32.32,31.59,964.71,No Disease Detected
+139,97,38.44,29.02,1090.24,Tachycardia
+126,94,36.31,40.01,978.55,No Disease Detected
+69,92,33.76,29.11,1037.82,No Disease Detected
+126,97,35.09,25.67,924.43,Hypertension/Hypotension
+82,94,38.9,22.51,960.44,Fever
+126,93,34.9,41.05,927.96,Hypertension/Hypotension
+149,90,34.01,21.36,1069.3,Tachycardia
+137,93,34.11,33.05,1090.48,Tachycardia
+109,85,37.91,27.12,943.59,Hypoxia
+105,99,33.31,21.99,962.9,No Disease Detected
+53,95,31.71,27.76,1054.86,Bradycardia
+98,91,37.32,38.64,912.71,Hypertension/Hypotension
+102,93,38.78,33.89,927.95,Fever
+66,95,35.11,38.54,947.96,Hypertension/Hypotension
+150,93,31.0,32.27,1053.96,Tachycardia
+102,97,31.42,33.66,1042.45,No Disease Detected
+114,94,31.75,44.93,1040.3,No Disease Detected
+134,91,36.51,42.63,1074.18,Tachycardia
+137,95,36.06,39.83,1078.01,Tachycardia
+52,100,31.76,28.58,972.31,Bradycardia
+84,87,33.87,37.99,970.5,Hypoxia
+50,94,38.85,37.07,1003.67,Bradycardia
+143,85,34.77,44.24,941.42,Hypoxia
+134,86,35.56,21.17,1053.84,Hypoxia
+136,85,33.44,23.47,1071.56,Hypoxia
+94,98,32.07,32.46,1045.61,No Disease Detected
+131,90,30.47,40.29,997.65,Tachycardia
+146,98,36.16,29.41,928.25,Tachycardia
+146,98,30.14,31.19,1038.54,Tachycardia
+73,89,38.36,42.19,989.09,Hypoxia
+121,98,31.55,25.93,1020.67,No Disease Detected
+53,95,30.58,32.21,1023.97,Bradycardia
+137,96,37.4,21.91,1046.33,Tachycardia
+145,90,36.36,29.45,1081.28,Tachycardia
+73,94,33.82,39.0,1087.85,Hypertension/Hypotension
+87,94,35.63,21.81,1068.97,Hypertension/Hypotension
+92,89,30.89,35.26,1038.81,Hypoxia
+70,100,33.53,39.36,1069.27,Hypertension/Hypotension
+126,100,37.96,39.38,1041.23,No Disease Detected
+101,98,39.97,26.4,911.86,Fever
+118,99,35.12,38.04,969.09,No Disease Detected
+117,96,39.69,41.09,995.05,Fever
+62,88,39.32,26.79,1037.54,Hypoxia
+89,95,34.89,29.52,1033.34,No Disease Detected
+69,90,34.72,31.2,934.05,Hypertension/Hypotension
+54,97,37.4,43.89,900.47,Bradycardia
+142,97,36.6,39.12,977.85,Tachycardia
+120,97,39.56,43.43,975.03,Fever
+79,85,37.69,31.54,944.32,Hypoxia
+144,95,34.02,39.36,916.4,Tachycardia
+75,93,38.61,33.44,993.36,Fever
+84,95,38.84,26.3,989.76,Fever
+60,99,39.5,36.62,1009.4,Fever
+141,94,34.93,41.37,1034.85,Tachycardia
+144,99,33.1,28.92,905.64,Tachycardia
+107,85,38.66,23.9,1092.36,Hypoxia
+108,89,35.61,32.66,967.15,Hypoxia
+138,94,39.01,40.93,953.0,Tachycardia
+89,100,35.51,24.88,1099.25,Hypertension/Hypotension
+96,100,33.49,29.42,999.06,No Disease Detected
+146,95,38.6,35.26,923.83,Tachycardia
+118,93,39.66,24.37,1006.62,Fever
+62,89,33.59,39.55,1020.56,Hypoxia
+112,93,35.86,27.41,934.7,Hypertension/Hypotension
+144,97,36.96,32.53,921.59,Tachycardia
+133,100,36.3,32.71,972.56,Tachycardia
+62,93,36.94,28.64,966.9,No Disease Detected
+100,86,31.05,36.03,917.81,Hypoxia
+85,100,35.41,44.66,997.61,No Disease Detected
+139,97,34.92,41.88,964.87,Tachycardia
+139,92,33.5,22.18,1005.64,Tachycardia
+99,98,31.93,23.6,1099.23,Hypertension/Hypotension
+140,88,36.04,42.8,968.19,Hypoxia
+73,100,37.69,29.3,979.34,No Disease Detected
+92,97,34.9,34.41,908.59,Hypertension/Hypotension
+122,89,38.17,41.9,996.99,Hypoxia
+56,99,37.65,24.3,943.25,Bradycardia
+137,87,34.56,39.83,1095.46,Hypoxia
+116,88,35.93,23.29,964.04,Hypoxia
+80,95,30.13,44.08,976.6,No Disease Detected
+108,87,39.26,25.77,992.01,Hypoxia
+53,98,38.51,25.64,1074.2,Bradycardia
+134,96,39.46,34.3,938.91,Tachycardia
+94,94,38.17,44.44,1063.23,Hypertension/Hypotension
+67,86,33.81,38.99,1044.07,Hypoxia
+65,98,39.37,40.69,917.81,Fever
+73,96,31.05,26.67,967.99,No Disease Detected
+117,94,36.7,33.11,937.71,Hypertension/Hypotension
+92,85,35.63,34.81,1069.85,Hypoxia
+80,86,30.62,24.06,997.17,Hypoxia
+73,86,32.61,37.23,997.87,Hypoxia
+96,95,35.7,41.95,1008.53,No Disease Detected
+85,99,30.05,43.57,958.82,No Disease Detected
+102,86,34.15,20.22,1001.82,Hypoxia
+59,91,33.88,38.74,905.0,Bradycardia
+90,86,36.02,40.34,948.09,Hypoxia
+86,94,31.64,30.15,919.5,Hypertension/Hypotension
+54,87,37.73,35.93,929.08,Hypoxia
+111,87,35.4,34.59,903.51,Hypoxia
+94,92,38.04,25.72,935.08,Hypertension/Hypotension
+66,87,33.9,44.42,931.1,Hypoxia
+146,85,37.38,30.59,1027.89,Hypoxia
+124,87,32.67,22.6,919.44,Hypoxia
+73,94,35.18,27.86,1082.4,Hypertension/Hypotension
+91,90,35.0,20.95,910.86,Hypertension/Hypotension
+136,93,31.48,36.77,1033.93,Tachycardia
+145,87,30.41,36.31,941.79,Hypoxia
+90,88,37.91,39.16,909.92,Hypoxia
+66,96,33.25,34.23,901.28,Hypertension/Hypotension
+136,91,32.4,44.56,1071.6,Tachycardia
+141,91,33.62,41.37,1099.89,Tachycardia
+84,100,36.17,24.34,1041.92,No Disease Detected
+53,97,30.09,36.15,1039.6,Bradycardia
+142,88,34.07,41.85,1095.53,Hypoxia
+57,99,36.36,38.34,1027.67,Bradycardia
+79,85,32.64,22.15,1078.48,Hypoxia
+91,100,36.08,26.53,975.2,No Disease Detected
+61,99,39.25,40.29,1072.03,Fever
+134,95,36.94,42.59,1071.05,Tachycardia
+71,86,38.05,43.41,1069.15,Hypoxia
+65,86,33.37,29.99,929.65,Hypoxia
+132,96,32.0,28.39,954.55,Tachycardia
+110,93,39.0,33.0,1059.28,Fever
+139,95,31.07,23.54,912.42,Tachycardia
+127,87,32.29,35.24,993.74,Hypoxia
+149,99,31.22,36.38,982.96,Tachycardia
+95,85,32.98,30.91,922.89,Hypoxia
+103,98,34.9,32.91,992.81,No Disease Detected
+132,88,36.93,24.11,997.68,Hypoxia
+62,86,31.32,22.0,1047.98,Hypoxia
+98,97,35.59,20.14,944.33,Hypertension/Hypotension
+58,91,37.49,21.41,916.17,Bradycardia
+80,86,38.58,23.33,1056.26,Hypoxia
+138,85,38.83,20.79,995.84,Hypoxia
+136,99,34.36,33.77,1025.28,Tachycardia
+127,97,36.21,32.18,940.28,Hypertension/Hypotension
+58,95,31.79,44.84,943.32,Bradycardia
+66,93,31.6,26.25,1045.77,No Disease Detected
+124,88,31.5,23.33,1039.08,Hypoxia
+50,95,36.71,44.32,1017.72,Bradycardia
+142,85,32.66,40.51,1021.57,Hypoxia
+136,89,36.92,22.43,1017.48,Hypoxia
+127,93,35.34,32.36,911.54,Hypertension/Hypotension
+131,89,37.52,35.99,936.47,Hypoxia
+50,85,35.76,41.4,975.31,Hypoxia
+58,92,32.7,21.48,1086.72,Bradycardia
+135,89,36.44,41.93,1040.04,Hypoxia
+86,100,31.71,33.1,918.48,Hypertension/Hypotension
+79,93,34.88,28.63,950.5,No Disease Detected
+108,99,33.06,29.17,947.64,Hypertension/Hypotension
+62,97,37.0,31.03,1077.87,Hypertension/Hypotension
+86,93,36.61,25.98,977.62,No Disease Detected
+81,97,38.66,32.81,1081.29,Fever
+89,90,36.6,43.32,987.75,No Disease Detected
+130,94,32.21,25.32,937.34,Hypertension/Hypotension
+94,88,39.2,22.07,1083.15,Hypoxia
+88,91,39.06,38.29,1048.49,Fever
+134,100,39.91,31.52,977.88,Tachycardia
+88,86,33.21,35.88,1039.46,Hypoxia
+96,98,30.98,38.0,1078.94,Hypertension/Hypotension
+120,95,31.92,38.07,906.49,Hypertension/Hypotension
+63,98,35.89,27.29,901.64,Hypertension/Hypotension
+50,93,37.21,43.92,1063.71,Bradycardia
+126,93,30.12,39.26,1029.73,No Disease Detected
+87,95,33.25,25.82,962.6,No Disease Detected
+118,86,30.22,22.28,925.65,Hypoxia
+118,89,37.49,40.96,909.39,Hypoxia
+61,90,39.43,29.62,1073.85,Fever
+82,93,35.4,24.82,1004.92,No Disease Detected
+145,99,39.84,28.61,1014.27,Tachycardia
+110,95,33.82,21.58,909.38,Hypertension/Hypotension
+85,100,39.08,37.35,929.56,Fever
+149,99,35.72,36.45,1001.87,Tachycardia
+70,95,30.04,34.96,932.24,Hypertension/Hypotension
+53,87,34.12,37.0,975.11,Hypoxia
+88,85,34.48,35.4,1025.35,Hypoxia
+125,91,31.16,27.36,983.1,No Disease Detected
+135,98,31.0,44.48,986.57,Tachycardia
+133,88,34.42,42.18,971.83,Hypoxia
+88,85,37.19,37.9,1063.98,Hypoxia
+101,96,36.02,39.53,957.95,No Disease Detected
+110,89,30.76,23.15,1078.3,Hypoxia
+127,89,31.14,41.12,956.83,Hypoxia
+112,91,37.61,40.71,991.8,No Disease Detected
+67,93,38.96,28.54,1036.53,Fever
+121,96,36.12,43.82,1067.21,Hypertension/Hypotension
+89,88,34.87,27.3,982.08,Hypoxia
+74,85,33.89,40.19,1052.31,Hypoxia
+87,95,33.62,33.94,1046.3,No Disease Detected
+137,88,38.45,22.65,921.59,Hypoxia
+100,88,30.74,37.77,1068.97,Hypoxia
+51,86,35.71,29.94,955.23,Hypoxia
+97,95,39.18,32.76,923.66,Fever
+55,88,38.4,40.08,946.27,Hypoxia
+96,89,32.79,37.04,1025.34,Hypoxia
+133,90,33.6,27.11,1025.67,Tachycardia
+102,86,39.77,23.74,1004.94,Hypoxia
+111,97,32.93,29.09,1022.17,No Disease Detected
+139,90,38.81,26.1,955.35,Tachycardia
+102,100,36.77,36.83,1025.99,No Disease Detected
+117,96,34.19,25.17,1075.25,Hypertension/Hypotension
+66,87,31.21,34.38,1089.91,Hypoxia
+75,87,34.86,29.85,987.65,Hypoxia
+114,99,30.44,42.38,1053.22,Hypertension/Hypotension
+96,89,33.98,44.34,1001.47,Hypoxia
+103,100,30.82,32.86,1093.03,Hypertension/Hypotension
+100,89,34.08,37.05,1032.38,Hypoxia
+68,100,32.02,29.58,1016.86,No Disease Detected
+66,95,35.73,31.69,998.66,No Disease Detected
+62,97,30.8,31.8,1023.71,No Disease Detected
+82,92,30.84,21.34,1085.8,Hypertension/Hypotension
+131,97,38.12,27.87,900.84,Tachycardia
+50,91,39.39,32.1,957.24,Bradycardia
+71,89,34.68,35.05,985.23,Hypoxia
+131,86,37.9,23.48,1051.15,Hypoxia
+95,91,33.58,22.38,1069.68,Hypertension/Hypotension
+123,86,38.48,26.29,1066.69,Hypoxia
+140,87,39.13,26.66,915.3,Hypoxia
+121,86,30.66,35.2,1021.57,Hypoxia
+51,100,38.82,38.19,947.14,Bradycardia
+82,99,31.04,30.87,912.49,Hypertension/Hypotension
+56,91,32.16,28.53,1013.72,Bradycardia
+121,85,37.28,34.29,1086.94,Hypoxia
+137,99,33.38,31.89,1062.07,Tachycardia
+94,87,36.41,44.97,1021.41,Hypoxia
+85,85,36.4,41.39,1071.99,Hypoxia
+74,95,30.31,35.63,1042.56,No Disease Detected
+79,88,30.58,43.67,970.28,Hypoxia
+121,97,36.46,26.53,975.18,No Disease Detected
+75,86,39.57,32.92,1046.89,Hypoxia
+150,90,31.61,37.18,905.62,Tachycardia
+86,98,31.17,24.26,1008.68,No Disease Detected
+124,97,33.92,36.17,911.39,Hypertension/Hypotension
+68,98,38.03,43.78,926.76,Hypertension/Hypotension
+116,94,39.03,27.45,1041.0,Fever
+100,100,39.19,32.86,980.89,Fever
+72,95,36.93,31.4,1095.81,Hypertension/Hypotension
+112,88,34.58,31.14,930.78,Hypoxia
+81,90,32.47,44.9,1001.06,No Disease Detected
+64,93,30.72,30.01,995.0,No Disease Detected
+125,92,32.05,33.45,1075.9,Hypertension/Hypotension
+97,90,33.63,32.9,1058.15,Hypertension/Hypotension
+90,95,35.2,38.66,927.77,Hypertension/Hypotension
+117,87,38.48,22.93,952.6,Hypoxia
+150,93,32.8,27.08,1069.34,Tachycardia
+56,96,31.82,25.85,955.98,Bradycardia
+79,93,38.53,34.43,924.19,Fever
+146,93,34.1,30.35,934.19,Tachycardia
+145,87,31.55,39.6,906.91,Hypoxia
+65,89,31.66,32.5,958.17,Hypoxia
+95,98,31.76,36.22,1031.34,No Disease Detected
+79,93,39.81,27.06,985.95,Fever
+93,96,36.54,28.23,1094.79,Hypertension/Hypotension
+102,98,33.04,31.22,969.14,No Disease Detected
+79,93,36.27,27.0,974.61,No Disease Detected
+110,94,30.81,36.13,1046.46,No Disease Detected
+65,99,35.5,39.65,1036.39,No Disease Detected
+137,99,35.69,28.06,1069.75,Tachycardia
+56,85,34.76,23.79,958.41,Hypoxia
+59,91,39.76,28.47,1088.46,Bradycardia
+71,100,30.06,43.83,1080.13,Hypertension/Hypotension
+138,91,30.59,32.41,1031.65,Tachycardia
+139,85,33.73,23.36,996.7,Hypoxia
+102,97,37.82,32.18,1031.81,No Disease Detected
+131,92,32.24,26.04,911.25,Tachycardia
+96,90,38.92,20.22,1044.72,Fever
+54,94,35.86,30.11,948.99,Bradycardia
+140,95,37.44,23.86,982.58,Tachycardia
+59,86,38.98,22.1,973.57,Hypoxia
+50,98,37.32,44.53,954.14,Bradycardia
+124,97,32.72,20.66,954.17,No Disease Detected
+68,96,37.72,43.91,1067.12,Hypertension/Hypotension
+128,96,37.48,37.55,914.52,Hypertension/Hypotension
+72,91,37.19,20.11,972.58,No Disease Detected
+121,91,32.99,25.84,936.4,Hypertension/Hypotension
+116,98,33.66,26.18,930.69,Hypertension/Hypotension
+113,100,36.81,27.47,915.0,Hypertension/Hypotension
+76,100,37.92,29.76,1030.47,No Disease Detected
+129,93,30.04,23.59,938.46,Hypertension/Hypotension
+106,100,37.72,23.84,923.77,Hypertension/Hypotension
+130,96,37.27,33.17,948.26,Hypertension/Hypotension
+80,89,34.04,29.62,980.21,Hypoxia
+127,86,31.62,43.76,956.71,Hypoxia
+144,87,39.34,41.18,963.85,Hypoxia
+109,86,33.49,22.05,1089.15,Hypoxia
+148,88,36.58,32.56,906.27,Hypoxia
+50,92,30.2,22.92,997.66,Bradycardia
+57,89,33.96,35.82,1048.18,Hypoxia
+87,92,31.45,36.99,935.84,Hypertension/Hypotension
+60,90,39.88,26.17,1018.09,Fever
+82,87,33.23,27.44,1076.87,Hypoxia
+131,100,32.05,38.71,1076.78,Tachycardia
+88,87,39.06,26.68,1039.23,Hypoxia
+140,89,32.52,42.86,1005.5,Hypoxia
+105,99,38.97,38.5,983.0,Fever
+87,89,36.79,43.35,1070.08,Hypoxia
+147,89,39.54,28.57,916.67,Hypoxia
+105,87,30.85,39.9,949.86,Hypoxia
+127,92,36.14,33.12,1095.37,Hypertension/Hypotension
+121,89,33.93,35.51,983.88,Hypoxia
+53,98,38.91,32.81,1009.86,Bradycardia
+122,86,36.16,27.83,1068.91,Hypoxia
+87,97,32.29,42.93,946.67,Hypertension/Hypotension
+72,95,32.48,31.31,1040.55,No Disease Detected
+60,87,30.44,34.17,1079.04,Hypoxia
+84,92,30.35,41.6,1065.73,Hypertension/Hypotension
+110,99,35.92,29.61,1019.08,No Disease Detected
+83,89,37.01,32.31,1037.24,Hypoxia
+62,88,39.26,31.69,937.29,Hypoxia
+57,92,30.76,42.14,976.44,Bradycardia
+57,98,33.89,27.86,1011.77,Bradycardia
+137,95,32.76,26.28,1031.16,Tachycardia
+97,91,35.97,35.3,908.33,Hypertension/Hypotension
+70,100,35.93,25.05,913.72,Hypertension/Hypotension
+98,93,34.12,35.39,1068.39,Hypertension/Hypotension
+82,94,31.7,31.47,1031.06,No Disease Detected
+144,92,33.31,23.66,942.85,Tachycardia
+52,89,32.8,30.54,977.81,Hypoxia
+83,87,37.07,43.09,1052.09,Hypoxia
+142,99,33.56,44.31,996.08,Tachycardia
+100,92,38.38,20.53,970.44,No Disease Detected
+69,97,35.96,39.88,903.17,Hypertension/Hypotension
+126,94,34.55,26.58,1039.35,No Disease Detected
+141,87,38.36,42.58,1044.42,Hypoxia
+131,91,39.46,37.95,961.66,Tachycardia
+53,96,33.56,43.24,992.21,Bradycardia
+117,88,34.85,32.2,1081.51,Hypoxia
+136,92,38.66,30.33,1090.31,Tachycardia
+72,88,35.55,21.07,1058.21,Hypoxia
+92,92,39.63,33.17,1022.26,Fever
+103,90,38.74,25.05,918.05,Fever
+84,85,30.65,33.24,1003.48,Hypoxia
+119,92,38.85,32.61,1013.18,Fever
+72,90,34.82,32.24,1029.28,No Disease Detected
+67,98,39.22,29.32,905.01,Fever
+103,98,36.64,35.23,1051.33,Hypertension/Hypotension
+147,91,37.6,38.3,926.61,Tachycardia
+73,86,37.56,26.48,988.69,Hypoxia
+103,98,39.34,31.68,937.36,Fever
+82,93,33.13,33.28,1028.7,No Disease Detected
+142,87,38.27,24.04,907.94,Hypoxia
+136,87,30.56,25.03,1036.72,Hypoxia
+104,96,35.2,43.3,945.5,Hypertension/Hypotension
+141,91,35.38,26.27,941.81,Tachycardia
+99,99,31.26,21.78,1077.15,Hypertension/Hypotension
+121,92,39.48,31.43,1060.02,Fever
+90,96,31.6,22.3,933.31,Hypertension/Hypotension
+58,93,36.26,26.47,1027.95,Bradycardia
+65,97,34.9,22.29,1065.02,Hypertension/Hypotension
+61,99,33.88,33.21,958.17,No Disease Detected
+53,99,38.83,39.83,1053.06,Bradycardia
+119,100,33.38,20.48,1042.07,No Disease Detected
+148,87,37.31,22.01,1006.06,Hypoxia
+83,95,34.69,43.8,1024.85,No Disease Detected
+135,100,37.74,40.25,1008.9,Tachycardia
+88,97,31.27,44.54,1056.14,Hypertension/Hypotension
+93,92,32.17,34.87,929.43,Hypertension/Hypotension
+99,91,34.28,23.5,978.17,No Disease Detected
+56,99,36.41,25.55,1000.59,Bradycardia
+53,93,31.32,20.25,1006.61,Bradycardia
+67,89,33.68,23.79,928.41,Hypoxia
+108,97,36.73,37.77,961.85,No Disease Detected
+68,98,37.61,28.67,959.11,No Disease Detected
+105,91,39.31,28.05,1031.25,Fever
+73,90,32.46,37.78,1087.84,Hypertension/Hypotension
+127,98,39.88,41.64,1074.45,Fever
+86,97,36.17,28.8,971.56,No Disease Detected
+93,88,37.55,27.11,947.14,Hypoxia
+90,91,33.24,24.49,972.62,No Disease Detected
+93,89,36.76,23.34,1077.09,Hypoxia
+131,96,34.5,24.14,931.66,Tachycardia
+91,100,34.48,32.36,1086.43,Hypertension/Hypotension
+127,98,32.14,33.95,993.58,No Disease Detected
+122,93,37.29,25.81,935.05,Hypertension/Hypotension
+127,99,36.53,22.47,1000.66,No Disease Detected
+55,89,31.3,36.66,1034.83,Hypoxia
+98,97,31.89,24.79,967.21,No Disease Detected
+76,100,31.67,44.81,943.79,Hypertension/Hypotension
+88,95,30.25,38.12,1056.16,Hypertension/Hypotension
+111,91,39.54,23.23,992.77,Fever
+77,88,34.85,37.96,980.92,Hypoxia
+68,87,32.52,41.67,1048.94,Hypoxia
+83,100,31.52,23.35,1096.24,Hypertension/Hypotension
+100,86,31.03,28.52,944.92,Hypoxia
+109,99,37.57,33.23,921.45,Hypertension/Hypotension
+92,97,36.94,44.14,1049.0,No Disease Detected
+91,85,36.55,21.11,909.57,Hypoxia
+65,99,36.72,33.37,955.83,No Disease Detected
+133,92,38.25,44.41,949.17,Tachycardia
+93,100,31.98,34.74,916.34,Hypertension/Hypotension
+129,95,38.7,33.47,1034.19,Fever
+75,91,37.06,21.68,989.64,No Disease Detected
+67,91,37.97,21.91,1058.6,Hypertension/Hypotension
+101,100,30.39,23.82,954.44,No Disease Detected
+142,99,39.77,24.59,1049.53,Tachycardia
+99,97,38.81,35.16,1031.22,Fever
+134,99,38.59,35.63,978.73,Tachycardia
+128,97,37.67,39.18,922.75,Hypertension/Hypotension
+138,99,39.1,37.76,1094.05,Tachycardia
+72,96,30.27,29.57,970.71,No Disease Detected
+77,96,37.11,43.21,1080.45,Hypertension/Hypotension
+97,100,34.48,34.09,1047.01,No Disease Detected
+98,87,32.65,31.05,1062.13,Hypoxia
+122,87,36.35,36.26,1000.1,Hypoxia
+84,92,37.31,29.79,932.37,Hypertension/Hypotension
+143,88,36.9,24.03,939.16,Hypoxia
+58,98,35.18,40.81,900.36,Bradycardia
+115,94,33.86,20.27,1009.12,No Disease Detected
+128,98,36.59,24.96,945.23,Hypertension/Hypotension
+55,98,34.03,35.42,1022.82,Bradycardia
+104,86,35.87,24.82,1061.27,Hypoxia
+97,96,34.02,38.64,988.75,No Disease Detected
+115,99,37.95,42.99,918.84,Hypertension/Hypotension
+64,85,38.82,21.69,1054.74,Hypoxia
+61,98,30.31,42.52,1045.48,No Disease Detected
+145,96,34.2,38.24,1053.42,Tachycardia
+129,98,38.47,32.59,1080.41,Hypertension/Hypotension
+148,96,38.55,21.05,1091.84,Tachycardia
+119,94,39.81,41.2,960.89,Fever
+77,99,36.21,30.76,1039.21,No Disease Detected
+120,90,36.76,44.7,1061.39,Hypertension/Hypotension
+122,85,30.18,23.29,973.11,Hypoxia
+100,99,33.11,35.17,987.99,No Disease Detected
+117,87,32.59,29.32,1086.4,Hypoxia
+95,100,32.66,34.23,922.77,Hypertension/Hypotension
+110,98,31.11,29.95,1039.55,No Disease Detected
+114,98,30.99,40.37,991.8,No Disease Detected
+76,99,31.0,23.0,1014.37,No Disease Detected
+80,91,36.68,22.6,1076.61,Hypertension/Hypotension
+147,86,37.99,43.72,954.5,Hypoxia
+118,99,30.15,31.04,1090.16,Hypertension/Hypotension
+143,90,38.87,42.84,914.28,Tachycardia
+128,90,34.17,22.76,1053.6,Hypertension/Hypotension
+93,89,32.1,36.0,993.99,Hypoxia
+75,94,34.93,36.57,1056.06,Hypertension/Hypotension
+83,89,35.79,37.14,923.54,Hypoxia
+59,86,37.33,22.63,1046.31,Hypoxia
+101,91,39.52,39.51,936.5,Fever
+141,91,35.22,37.45,907.19,Tachycardia
+88,97,30.39,44.28,981.19,No Disease Detected
+86,88,32.12,20.82,909.58,Hypoxia
+146,92,37.21,39.57,904.53,Tachycardia
+88,98,38.47,38.82,977.9,No Disease Detected
+91,100,38.93,30.7,901.45,Fever
+127,94,36.29,34.64,1071.39,Hypertension/Hypotension
+80,99,31.01,32.36,1066.02,Hypertension/Hypotension
+50,93,30.0,33.83,971.65,Bradycardia
+118,90,37.14,27.99,979.72,No Disease Detected
+128,86,30.93,24.91,1084.05,Hypoxia
+99,98,34.49,44.45,1006.91,No Disease Detected
+76,86,35.39,38.37,923.33,Hypoxia
+125,98,34.54,41.37,969.26,No Disease Detected
+108,97,32.96,34.32,941.27,Hypertension/Hypotension
+83,88,37.6,20.15,924.54,Hypoxia
+147,99,33.67,24.7,1020.92,Tachycardia
+54,96,38.71,24.52,939.12,Bradycardia
+129,100,35.54,31.31,991.36,No Disease Detected
+57,94,34.71,38.77,996.98,Bradycardia
+137,97,38.78,28.0,943.81,Tachycardia
+75,93,36.27,25.93,1041.28,No Disease Detected
+95,95,37.1,39.41,961.75,No Disease Detected
+148,97,30.98,23.03,900.84,Tachycardia
+86,89,30.36,32.93,1048.79,Hypoxia
+70,89,33.78,21.46,902.34,Hypoxia
+146,87,36.9,30.95,995.96,Hypoxia
+54,93,39.8,39.55,1098.95,Bradycardia
+60,99,35.58,22.86,1079.8,Hypertension/Hypotension
+81,90,32.15,20.91,918.56,Hypertension/Hypotension
+82,90,33.13,32.66,1033.38,No Disease Detected
+120,89,38.92,43.68,905.17,Hypoxia
+100,87,39.06,29.19,938.37,Hypoxia
+58,86,39.88,21.73,1088.19,Hypoxia
+117,88,31.93,40.36,1094.59,Hypoxia
+133,99,32.5,26.28,1064.85,Tachycardia
+58,98,33.87,37.07,960.56,Bradycardia
+115,89,32.62,42.19,975.92,Hypoxia
+88,89,37.69,22.94,1082.72,Hypoxia
+51,92,34.04,22.54,1086.2,Bradycardia
+123,92,36.21,40.49,900.55,Hypertension/Hypotension
+77,88,35.66,22.54,1072.93,Hypoxia
+72,95,34.34,41.8,974.85,No Disease Detected
+101,90,31.53,41.28,995.28,No Disease Detected
+113,94,33.3,23.56,1008.89,No Disease Detected
+62,85,35.7,28.01,1048.18,Hypoxia
+121,96,33.27,27.14,1081.9,Hypertension/Hypotension
+120,86,34.16,28.79,903.15,Hypoxia
+102,98,34.92,36.09,1072.48,Hypertension/Hypotension
+135,86,32.46,28.04,1040.53,Hypoxia
+146,96,31.42,29.28,1067.44,Tachycardia
+138,87,33.06,24.9,1034.81,Hypoxia
+50,91,35.64,37.78,1096.56,Bradycardia
+135,96,30.68,39.16,937.97,Tachycardia
+137,95,38.32,36.93,970.21,Tachycardia
+125,92,31.5,27.99,1062.76,Hypertension/Hypotension
+141,94,33.72,34.03,1035.81,Tachycardia
+138,100,33.3,33.72,997.92,Tachycardia
+64,100,32.06,36.7,1055.88,Hypertension/Hypotension
+149,92,33.54,34.82,1083.94,Tachycardia
+55,94,37.04,38.96,1080.06,Bradycardia
+53,100,32.8,28.68,1023.5,Bradycardia
+78,86,37.15,32.64,928.2,Hypoxia
+113,99,34.18,40.94,1077.44,Hypertension/Hypotension
+145,89,34.34,44.63,1050.92,Hypoxia
+63,99,34.35,39.28,916.97,Hypertension/Hypotension
+64,88,37.99,34.57,917.58,Hypoxia
+120,96,32.28,41.77,1073.43,Hypertension/Hypotension
+99,94,37.2,43.64,1066.35,Hypertension/Hypotension
+90,86,31.16,35.68,969.17,Hypoxia
+147,99,39.15,44.81,932.91,Tachycardia
+147,89,35.15,34.24,985.64,Hypoxia
+150,100,34.03,20.35,938.87,Tachycardia
+52,92,32.32,42.47,1096.11,Bradycardia
+100,93,39.1,33.94,1045.37,Fever
+92,85,35.24,42.33,975.23,Hypoxia
+132,87,34.95,28.88,1008.29,Hypoxia
+101,90,37.18,26.85,1047.22,No Disease Detected
+58,94,34.43,35.38,1043.6,Bradycardia
+105,98,30.52,40.17,1009.32,No Disease Detected
+80,98,36.48,32.45,930.43,Hypertension/Hypotension
+80,100,36.6,38.55,917.86,Hypertension/Hypotension
+97,94,39.32,34.91,1052.21,Fever
+64,97,35.63,34.39,1053.16,Hypertension/Hypotension
+124,94,31.3,36.81,1047.61,No Disease Detected
+124,95,36.92,42.47,1016.7,No Disease Detected
+107,91,32.59,41.77,955.91,No Disease Detected
+135,99,32.65,33.05,938.05,Tachycardia
+106,88,36.59,27.12,1065.63,Hypoxia
+62,97,35.8,26.63,926.1,Hypertension/Hypotension
+57,91,36.87,35.89,947.31,Bradycardia
+80,87,38.19,43.76,901.53,Hypoxia
+76,92,39.22,21.15,946.15,Fever
+92,86,36.65,42.64,967.14,Hypoxia
+147,94,32.34,26.85,1058.06,Tachycardia
+69,94,35.99,40.49,1082.25,Hypertension/Hypotension
+110,94,34.99,22.42,923.78,Hypertension/Hypotension
+108,86,36.63,26.18,920.87,Hypoxia
+141,90,34.57,38.19,1095.6,Tachycardia
+134,93,38.68,43.82,996.36,Tachycardia
+125,93,39.9,29.89,1006.51,Fever
+87,87,33.03,44.69,1055.39,Hypoxia
+54,92,31.23,27.2,1060.59,Bradycardia
+93,89,31.44,28.71,904.11,Hypoxia
+120,87,30.61,43.82,936.65,Hypoxia
+127,85,33.64,20.61,1021.54,Hypoxia
+104,90,39.83,35.24,1079.53,Fever
+148,97,34.74,43.06,954.03,Tachycardia
+109,95,35.09,21.54,956.2,No Disease Detected
+63,91,37.92,24.36,1049.07,No Disease Detected
+81,89,35.01,44.27,980.04,Hypoxia
+103,100,35.14,29.56,1025.61,No Disease Detected
+84,94,39.9,27.8,901.84,Fever
+117,89,37.12,31.08,969.43,Hypoxia
+81,94,38.36,41.99,1085.72,Hypertension/Hypotension
+105,87,38.87,38.13,918.56,Hypoxia
+125,87,39.36,35.13,936.56,Hypoxia
+142,87,35.07,35.58,976.45,Hypoxia
+77,100,37.66,33.96,982.3,No Disease Detected
+108,87,34.61,31.83,918.8,Hypoxia
+64,90,34.22,25.33,1041.45,No Disease Detected
+136,96,32.22,40.16,1061.58,Tachycardia
+108,92,32.91,31.18,972.35,No Disease Detected
+74,89,38.59,38.54,932.96,Hypoxia
+131,91,39.23,32.27,1012.87,Tachycardia
+130,96,37.21,25.99,1036.7,No Disease Detected
+116,92,35.65,25.81,1008.57,No Disease Detected
+127,95,32.57,35.76,1081.21,Hypertension/Hypotension
+136,85,32.31,43.12,982.5,Hypoxia
+104,86,35.82,41.99,934.37,Hypoxia
+114,94,37.41,29.9,940.06,Hypertension/Hypotension
+89,97,39.9,36.83,945.53,Fever
+74,99,33.07,42.77,1028.71,No Disease Detected
+103,86,34.72,34.07,976.46,Hypoxia
+129,97,33.88,32.69,988.04,No Disease Detected
+96,99,34.73,38.87,1000.08,No Disease Detected
+60,93,30.57,28.36,911.94,Hypertension/Hypotension
+128,90,36.71,33.12,989.67,No Disease Detected
+106,95,39.06,37.16,950.09,Fever
+54,96,36.76,35.86,970.19,Bradycardia
+119,87,36.55,39.31,944.59,Hypoxia
+71,85,36.51,24.97,986.68,Hypoxia
+64,86,31.94,34.79,1073.15,Hypoxia
+109,96,39.92,36.75,1077.47,Fever
+128,96,31.52,40.62,940.63,Hypertension/Hypotension
+68,94,38.22,26.32,936.75,Hypertension/Hypotension
+148,100,35.06,22.2,1051.06,Tachycardia
+138,98,37.79,33.08,947.1,Tachycardia
+109,86,39.29,35.38,1043.61,Hypoxia
+134,93,38.0,23.86,940.39,Tachycardia
+148,87,36.01,28.62,930.38,Hypoxia
+79,100,32.18,40.5,1022.97,No Disease Detected
+120,86,38.11,30.15,992.32,Hypoxia
+129,85,35.06,22.45,1065.72,Hypoxia
+143,98,30.91,44.56,900.03,Tachycardia
+82,89,35.33,33.1,1095.63,Hypoxia
+86,97,30.27,30.33,932.86,Hypertension/Hypotension
+84,93,38.93,39.64,958.98,Fever
+145,95,33.23,21.88,1033.04,Tachycardia
+98,91,33.32,21.81,939.34,Hypertension/Hypotension
+57,97,32.21,23.59,924.89,Bradycardia
+99,94,39.12,22.63,1052.89,Fever
+144,91,36.04,34.87,902.27,Tachycardia
+121,86,38.99,20.02,1001.48,Hypoxia
+71,87,37.24,22.12,941.56,Hypoxia
+66,90,37.18,36.72,979.34,No Disease Detected
+110,95,33.49,27.31,903.1,Hypertension/Hypotension
+103,97,30.76,25.06,960.32,No Disease Detected
+149,96,38.09,28.67,1063.05,Tachycardia
+54,94,30.55,43.9,1079.12,Bradycardia
+51,96,39.75,33.1,905.56,Bradycardia
+85,87,30.57,24.71,931.76,Hypoxia
+114,89,38.32,39.71,909.47,Hypoxia
+142,96,38.11,26.71,983.29,Tachycardia
+86,98,35.07,32.7,969.1,No Disease Detected
+91,92,32.35,32.29,977.13,No Disease Detected
+96,100,31.96,23.97,1096.45,Hypertension/Hypotension
+123,96,33.53,41.53,1077.25,Hypertension/Hypotension
+96,93,34.25,30.96,1014.9,No Disease Detected
+57,89,39.14,43.3,1009.8,Hypoxia
+101,94,39.29,22.36,1050.86,Fever
+61,89,38.21,40.01,1078.68,Hypoxia
+51,96,31.72,39.83,964.94,Bradycardia
+57,93,33.23,26.83,1089.64,Bradycardia
+121,98,38.02,26.55,1066.15,Hypertension/Hypotension
+86,95,33.93,35.5,1003.84,No Disease Detected
+64,90,39.04,33.93,1033.01,Fever
+52,95,31.69,38.95,1096.67,Bradycardia
+85,95,31.38,27.11,925.36,Hypertension/Hypotension
+98,90,37.13,37.65,909.86,Hypertension/Hypotension
+146,96,33.33,26.1,1097.89,Tachycardia
+95,99,30.07,37.7,1086.44,Hypertension/Hypotension
+135,96,33.32,22.08,1013.84,Tachycardia
+84,93,38.79,39.61,971.81,Fever
+122,94,39.57,34.9,1019.6,Fever
+129,94,34.15,23.9,982.03,No Disease Detected
+68,92,39.88,22.12,1004.71,Fever
+82,100,38.79,44.4,1029.24,Fever
+87,100,37.92,30.23,974.23,No Disease Detected
+56,96,34.71,23.16,959.73,Bradycardia
+102,86,39.33,35.71,1012.42,Hypoxia
+62,98,39.33,26.66,1074.73,Fever
+137,93,35.81,38.91,1046.93,Tachycardia
+57,95,34.42,43.31,1071.46,Bradycardia
+68,100,32.36,40.54,964.47,No Disease Detected
+148,87,30.29,43.99,1065.87,Hypoxia
+91,91,36.81,24.29,929.46,Hypertension/Hypotension
+105,88,38.65,41.88,1032.24,Hypoxia
+72,85,30.84,35.29,1064.12,Hypoxia
+57,91,33.3,37.03,1039.42,Bradycardia
+83,90,31.42,26.66,983.25,No Disease Detected
+146,86,37.64,36.63,946.49,Hypoxia
+55,98,36.82,34.58,926.41,Bradycardia
+101,85,33.34,30.6,965.4,Hypoxia
+73,99,31.89,30.82,921.52,Hypertension/Hypotension
+109,88,32.28,25.7,1086.96,Hypoxia
+53,91,35.22,31.34,1066.75,Bradycardia
+106,97,35.64,41.59,1002.89,No Disease Detected
+146,90,39.73,27.79,920.82,Tachycardia
+134,97,39.75,30.24,960.92,Tachycardia
+101,98,31.19,23.07,1070.44,Hypertension/Hypotension
+125,100,34.59,32.76,981.49,No Disease Detected
+88,92,31.13,36.0,931.89,Hypertension/Hypotension
+89,87,30.63,33.77,1069.49,Hypoxia
+89,94,30.65,35.36,1018.19,No Disease Detected
+103,87,35.64,23.3,909.99,Hypoxia
+107,93,32.84,26.3,953.29,No Disease Detected
+71,99,39.86,38.97,1098.65,Fever
+115,90,38.11,25.36,1067.32,Hypertension/Hypotension
+58,90,36.93,24.16,938.6,Bradycardia
+126,98,36.57,26.15,1078.18,Hypertension/Hypotension
+85,97,39.82,29.57,1070.16,Fever
+92,93,32.02,29.91,1034.02,No Disease Detected
+131,90,33.98,35.72,908.76,Tachycardia
+146,87,37.9,32.58,1001.67,Hypoxia
+70,85,36.52,23.58,931.11,Hypoxia
+103,92,30.89,39.58,1003.45,No Disease Detected
+65,93,31.49,43.06,925.65,Hypertension/Hypotension
+77,90,36.57,42.22,962.79,No Disease Detected
+150,85,33.89,34.35,1068.62,Hypoxia
+52,95,35.38,26.2,982.8,Bradycardia
+65,93,31.44,31.81,1053.22,Hypertension/Hypotension
+144,98,34.58,40.24,903.42,Tachycardia
+136,100,39.32,21.06,907.58,Tachycardia
+73,85,32.09,33.4,939.76,Hypoxia
+56,92,34.44,39.03,1004.58,Bradycardia
+88,100,39.1,37.48,976.69,Fever
+127,92,31.28,21.76,912.83,Hypertension/Hypotension
+114,97,37.17,28.1,1044.6,No Disease Detected
+77,96,31.05,25.01,1043.19,No Disease Detected
+73,96,32.95,26.76,948.52,Hypertension/Hypotension
+59,86,31.58,25.9,1003.41,Hypoxia
+54,97,33.34,30.3,1068.18,Bradycardia
+103,98,34.79,38.36,1038.47,No Disease Detected
+111,97,30.12,42.24,991.28,No Disease Detected
+145,91,37.1,21.57,1027.15,Tachycardia
+99,99,38.31,26.78,1063.76,Hypertension/Hypotension
+89,85,39.21,31.02,1043.18,Hypoxia
+105,97,36.17,38.58,967.88,No Disease Detected
+71,100,39.6,41.26,908.66,Fever
+142,90,38.27,33.33,1055.97,Tachycardia
+54,93,34.49,29.38,1051.48,Bradycardia
+129,94,31.27,44.85,940.82,Hypertension/Hypotension
+65,94,36.15,41.64,990.13,No Disease Detected
+146,93,36.19,28.89,1043.47,Tachycardia
+106,92,30.15,41.96,926.15,Hypertension/Hypotension
+82,98,33.04,36.67,917.82,Hypertension/Hypotension
+55,88,30.88,37.22,991.59,Hypoxia
+121,94,30.28,26.91,900.81,Hypertension/Hypotension
+89,88,36.14,30.26,962.25,Hypoxia
+120,100,38.28,33.21,1027.14,No Disease Detected
+55,89,35.67,40.09,916.83,Hypoxia
+51,87,38.44,37.26,1077.84,Hypoxia
+106,86,37.82,24.87,1043.86,Hypoxia
+65,88,30.48,31.66,977.46,Hypoxia
+142,88,36.75,28.5,966.91,Hypoxia
+54,87,34.34,32.67,924.06,Hypoxia
+107,97,32.88,26.77,966.96,No Disease Detected
+78,95,32.99,44.69,959.5,No Disease Detected
+107,92,38.48,27.46,904.23,Hypertension/Hypotension
+145,99,38.61,39.94,1048.68,Tachycardia
+132,85,33.38,30.62,954.1,Hypoxia
+53,96,37.21,41.21,979.73,Bradycardia
+105,86,33.87,34.13,1096.89,Hypoxia
+107,98,31.53,41.6,1095.12,Hypertension/Hypotension
+95,92,32.9,30.39,1032.83,No Disease Detected
+74,90,36.27,43.42,916.97,Hypertension/Hypotension
+144,94,37.74,26.19,1089.17,Tachycardia
+78,95,36.91,27.65,922.96,Hypertension/Hypotension
+84,97,32.5,37.99,1063.05,Hypertension/Hypotension
+53,98,34.73,30.27,1063.85,Bradycardia
+66,92,31.67,35.52,1046.84,No Disease Detected
+60,91,30.91,21.81,906.29,Hypertension/Hypotension
+66,89,37.14,37.96,1022.92,Hypoxia
+92,95,32.33,24.03,925.47,Hypertension/Hypotension
+69,88,30.87,25.23,1086.31,Hypoxia
+149,90,36.56,42.49,972.24,Tachycardia
+121,93,34.5,44.77,1005.05,No Disease Detected
+50,98,32.15,27.22,1018.92,Bradycardia
+146,100,38.15,28.36,1048.17,Tachycardia
+129,99,32.23,41.24,1087.22,Hypertension/Hypotension
+63,88,37.22,38.11,906.71,Hypoxia
+98,97,30.12,28.38,971.91,No Disease Detected
+92,97,34.37,24.05,1021.87,No Disease Detected
+138,93,38.47,33.09,944.71,Tachycardia
+106,85,36.63,20.74,912.3,Hypoxia
+72,99,35.22,37.47,906.33,Hypertension/Hypotension
+141,88,37.59,39.57,1007.83,Hypoxia
+55,85,35.7,28.04,1099.34,Hypoxia
+82,89,33.59,24.16,1090.88,Hypoxia
+127,95,30.15,21.9,1098.23,Hypertension/Hypotension
+146,85,35.9,36.91,985.78,Hypoxia
+104,98,34.84,39.08,1007.22,No Disease Detected
+96,88,35.51,20.82,901.77,Hypoxia
+68,98,33.69,33.92,945.09,Hypertension/Hypotension
+61,89,36.08,23.14,915.72,Hypoxia
+98,90,30.79,28.28,963.48,No Disease Detected
+150,90,32.38,38.32,1065.85,Tachycardia
+68,96,36.69,30.15,967.72,No Disease Detected
+112,98,38.88,38.82,955.48,Fever
+118,85,31.23,24.38,1073.46,Hypoxia
+112,95,32.59,27.02,960.99,No Disease Detected
+128,88,37.31,44.74,1055.0,Hypoxia
+114,94,32.93,31.6,1048.89,No Disease Detected
+90,88,30.78,28.49,973.34,Hypoxia
+147,94,38.42,26.68,943.85,Tachycardia
+132,95,39.78,37.53,1046.52,Tachycardia
+92,93,36.35,34.21,1062.27,Hypertension/Hypotension
+68,98,37.99,26.9,962.66,No Disease Detected
+147,90,36.89,30.1,1027.61,Tachycardia
+67,89,36.49,22.65,924.96,Hypoxia
+131,98,39.39,37.41,1045.72,Tachycardia
+68,88,39.98,36.83,928.67,Hypoxia
+124,92,37.96,35.46,1002.58,No Disease Detected
+58,96,32.78,33.4,1004.44,Bradycardia
+109,91,34.25,20.77,937.7,Hypertension/Hypotension
+92,94,30.87,31.27,1099.13,Hypertension/Hypotension
+109,90,31.75,22.27,901.01,Hypertension/Hypotension
+136,96,30.98,38.34,1098.34,Tachycardia
+124,88,35.33,25.42,1058.25,Hypoxia
+87,96,33.51,33.85,941.34,Hypertension/Hypotension
+117,91,39.92,42.76,992.39,Fever
+129,87,35.09,28.02,1023.83,Hypoxia
+119,94,35.07,35.34,918.93,Hypertension/Hypotension
+73,97,32.77,33.65,1088.96,Hypertension/Hypotension
+77,89,33.02,20.54,1053.32,Hypoxia
+59,86,34.51,23.45,934.9,Hypoxia
+108,93,35.87,42.71,924.83,Hypertension/Hypotension
+72,95,32.99,39.33,1076.97,Hypertension/Hypotension
+86,98,33.13,28.97,1027.97,No Disease Detected
+109,97,35.85,42.73,901.28,Hypertension/Hypotension
+80,94,36.63,38.2,1058.05,Hypertension/Hypotension
+71,85,37.66,36.3,1086.39,Hypoxia
+51,85,36.12,27.46,1058.61,Hypoxia
+78,86,30.78,43.91,1021.21,Hypoxia
+90,91,38.04,21.13,952.93,No Disease Detected
+115,85,34.74,42.23,1082.09,Hypoxia
+97,100,37.88,34.86,948.94,Hypertension/Hypotension
+67,93,38.16,28.77,978.22,No Disease Detected
+120,85,38.04,22.69,1008.04,Hypoxia
+103,93,34.38,29.93,1061.37,Hypertension/Hypotension
+129,89,39.39,21.06,967.91,Hypoxia
+91,91,39.41,34.91,981.74,Fever
+67,96,34.55,37.57,1014.26,No Disease Detected
+98,91,31.15,29.14,1005.44,No Disease Detected
+108,96,38.87,31.0,1030.6,Fever
+121,92,33.23,28.52,1055.87,Hypertension/Hypotension
+97,89,39.47,28.71,920.93,Hypoxia
+140,93,36.91,34.01,973.52,Tachycardia
+108,91,37.98,21.05,970.25,No Disease Detected
+77,93,33.82,29.94,958.29,No Disease Detected
+60,94,30.17,33.99,989.04,No Disease Detected
+137,97,34.55,32.05,1015.7,Tachycardia
+138,100,36.47,35.75,910.52,Tachycardia
+57,99,30.97,37.08,927.12,Bradycardia
+135,86,36.73,44.74,1087.9,Hypoxia
+65,91,33.03,42.36,1057.33,Hypertension/Hypotension
+88,96,37.57,38.5,1014.57,No Disease Detected
+116,98,38.02,36.18,1004.32,No Disease Detected
+67,97,32.76,20.77,919.77,Hypertension/Hypotension
+54,86,33.66,37.71,1048.99,Hypoxia
+122,86,30.44,29.67,1000.63,Hypoxia
+112,95,33.41,37.1,1010.6,No Disease Detected
+74,86,36.11,32.03,969.01,Hypoxia
+105,89,38.04,40.49,1002.87,Hypoxia
+73,94,31.37,42.31,1076.78,Hypertension/Hypotension
+76,91,39.85,28.17,900.81,Fever
+105,88,39.4,24.18,1031.56,Hypoxia
+134,86,36.25,22.57,1039.37,Hypoxia
+88,97,30.18,40.51,1077.71,Hypertension/Hypotension
+61,99,38.58,28.08,1063.24,Fever
+125,85,31.96,23.4,974.41,Hypoxia
+72,86,36.76,22.04,908.17,Hypoxia
+131,89,36.85,35.95,1054.36,Hypoxia
+89,89,33.13,34.67,1058.82,Hypoxia
+120,88,31.61,28.22,1095.36,Hypoxia
+50,87,38.07,35.83,1056.79,Hypoxia
+127,87,36.94,27.01,1069.05,Hypoxia
+53,89,37.06,21.88,1022.1,Hypoxia
+120,96,39.2,22.17,1013.2,Fever
+140,86,34.53,43.23,925.9,Hypoxia
+138,94,38.4,34.88,980.95,Tachycardia
+50,94,35.08,27.79,961.37,Bradycardia
+123,88,31.29,34.21,932.48,Hypoxia
+148,89,34.09,34.23,1068.65,Hypoxia
+100,97,34.97,23.93,1095.33,Hypertension/Hypotension
+120,88,37.14,34.98,981.33,Hypoxia
+93,98,38.68,43.01,1049.1,Fever
+108,99,38.44,41.77,907.14,Hypertension/Hypotension
+139,88,33.28,28.33,1099.67,Hypoxia
+71,86,34.09,31.44,1073.54,Hypoxia
+83,95,30.4,34.48,919.89,Hypertension/Hypotension
+102,92,32.71,34.59,1015.99,No Disease Detected
+141,95,30.17,41.06,1098.72,Tachycardia
+53,100,37.76,23.28,920.14,Bradycardia
+135,97,36.62,41.03,1035.41,Tachycardia
+64,91,37.59,21.24,926.59,Hypertension/Hypotension
+121,99,31.5,38.57,972.1,No Disease Detected
+71,86,39.58,38.39,1034.37,Hypoxia
+75,98,39.65,33.31,992.67,Fever
+58,91,39.52,44.6,917.12,Bradycardia
+117,95,39.91,42.34,967.91,Fever
+119,100,30.68,29.21,977.11,No Disease Detected
+60,86,38.01,40.22,999.06,Hypoxia
+140,91,36.96,29.94,931.58,Tachycardia
+150,97,34.2,28.04,920.23,Tachycardia
+74,94,30.14,43.81,942.82,Hypertension/Hypotension
+117,92,39.98,43.59,911.04,Fever
+134,87,37.38,22.64,1063.91,Hypoxia
+128,89,32.12,37.69,1047.18,Hypoxia
+99,97,34.75,23.71,940.53,Hypertension/Hypotension
+76,91,34.58,44.16,937.33,Hypertension/Hypotension
+100,85,36.25,40.7,1098.63,Hypoxia
+80,93,32.47,37.48,983.54,No Disease Detected
+67,100,36.81,35.02,992.49,No Disease Detected
+63,90,38.74,22.18,1045.21,Fever
+146,99,34.42,22.4,1031.96,Tachycardia
+68,87,34.31,38.89,1073.79,Hypoxia
+81,100,30.33,26.21,1092.15,Hypertension/Hypotension
+79,91,31.81,25.71,1011.15,No Disease Detected
+71,91,34.15,28.88,967.41,No Disease Detected
+69,92,35.69,44.58,903.84,Hypertension/Hypotension
+96,96,34.73,24.88,965.91,No Disease Detected
+78,92,34.12,23.92,961.72,No Disease Detected
+88,95,35.79,32.52,900.52,Hypertension/Hypotension
+126,92,34.73,44.77,1030.7,No Disease Detected
+106,85,33.08,23.68,1056.67,Hypoxia
+110,93,37.29,27.13,1074.67,Hypertension/Hypotension
+140,86,31.77,24.77,1099.81,Hypoxia
+140,94,37.44,43.36,1020.56,Tachycardia
+59,90,30.15,26.13,1055.96,Bradycardia
+52,100,36.85,35.59,962.73,Bradycardia
+123,86,32.42,23.86,928.58,Hypoxia
+98,86,32.81,36.84,1003.45,Hypoxia
+52,96,34.37,33.12,1074.66,Bradycardia
+89,97,32.3,42.55,950.34,No Disease Detected
+64,97,32.86,24.58,908.1,Hypertension/Hypotension
+129,88,37.47,44.3,907.87,Hypoxia
+85,100,35.85,21.32,965.39,No Disease Detected
+62,88,39.61,21.13,1024.54,Hypoxia
+147,96,36.31,27.47,949.91,Tachycardia
+74,99,39.01,44.44,907.57,Fever
+131,85,38.3,40.19,967.54,Hypoxia
+80,91,33.08,33.99,1018.73,No Disease Detected
+137,97,38.75,31.84,950.23,Tachycardia
+55,85,31.33,24.51,943.69,Hypoxia
+64,86,38.4,38.84,1095.35,Hypoxia
+89,89,30.58,40.7,902.76,Hypoxia
+104,93,30.54,26.86,1002.9,No Disease Detected
+54,89,32.15,40.43,1079.01,Hypoxia
+65,96,31.49,29.12,998.94,No Disease Detected
+92,94,36.2,27.08,983.64,No Disease Detected
+90,100,34.43,30.74,1033.14,No Disease Detected
+56,89,36.65,33.86,1005.58,Hypoxia
+105,86,39.64,40.67,901.39,Hypoxia
+90,94,36.01,20.72,1068.53,Hypertension/Hypotension
+135,91,32.54,21.74,925.91,Tachycardia
+86,96,36.48,43.56,1007.89,No Disease Detected
+100,89,30.06,29.28,939.71,Hypoxia
+127,85,33.11,22.5,980.48,Hypoxia
+54,87,35.41,20.68,925.88,Hypoxia
+117,99,32.44,23.82,1086.53,Hypertension/Hypotension
+111,87,36.13,36.36,1050.51,Hypoxia
+107,94,38.64,36.33,1076.92,Fever
+73,88,38.52,41.42,946.11,Hypoxia
+73,91,34.75,20.34,1018.63,No Disease Detected
+90,98,31.64,33.64,1028.26,No Disease Detected
+53,99,37.45,22.19,1080.37,Bradycardia
+53,90,39.7,33.07,1047.29,Bradycardia
+146,87,32.54,29.24,1079.92,Hypoxia
+96,89,30.06,36.1,1033.83,Hypoxia
+87,93,35.78,23.69,1025.58,No Disease Detected
+90,89,30.3,23.91,1023.34,Hypoxia
+111,86,37.02,42.4,939.14,Hypoxia
+143,94,34.96,26.27,983.0,Tachycardia
+94,99,31.8,27.89,1061.23,Hypertension/Hypotension
+107,91,30.12,20.03,981.71,No Disease Detected
+94,93,37.7,28.14,1066.83,Hypertension/Hypotension
+105,100,37.52,20.93,1062.81,Hypertension/Hypotension
+50,94,39.68,40.53,1003.18,Bradycardia
+108,98,35.0,43.11,1059.91,Hypertension/Hypotension
+127,99,31.61,35.15,976.49,No Disease Detected
+103,96,33.41,37.79,949.19,Hypertension/Hypotension
+66,100,32.8,40.44,930.16,Hypertension/Hypotension
+79,94,31.53,37.96,1031.13,No Disease Detected
+107,88,33.85,29.05,1085.15,Hypoxia
+133,99,39.78,32.56,1015.46,Tachycardia
+101,88,31.05,28.27,986.14,Hypoxia
+116,94,33.12,30.74,1088.11,Hypertension/Hypotension
+110,99,31.88,25.11,945.21,Hypertension/Hypotension
+105,100,39.52,31.91,1015.04,Fever
+52,89,34.58,21.07,1007.09,Hypoxia
+137,86,37.85,42.72,987.74,Hypoxia
+111,88,37.93,23.31,920.66,Hypoxia
+100,89,32.32,20.88,1055.4,Hypoxia
+143,96,32.47,34.35,983.69,Tachycardia
+51,92,38.59,31.08,954.74,Bradycardia
+91,98,31.55,41.76,1041.57,No Disease Detected
+130,92,39.52,36.36,1043.16,Fever
+66,85,39.81,36.36,1081.63,Hypoxia
+82,100,32.52,44.72,1092.64,Hypertension/Hypotension
+102,97,36.56,27.9,1087.32,Hypertension/Hypotension
+98,100,35.36,33.05,1018.88,No Disease Detected
+135,87,36.21,40.31,1062.55,Hypoxia
+92,99,37.59,32.93,973.95,No Disease Detected
+53,93,38.7,24.78,980.99,Bradycardia
+141,89,31.8,25.38,1038.02,Hypoxia
+89,92,34.1,42.12,909.75,Hypertension/Hypotension
+144,97,38.23,28.8,933.95,Tachycardia
+109,92,33.47,23.92,1052.63,Hypertension/Hypotension
+102,91,30.97,39.25,995.6,No Disease Detected
+91,90,39.5,33.88,973.61,Fever
+61,91,34.44,29.66,919.31,Hypertension/Hypotension
+55,98,30.54,33.66,981.63,Bradycardia
+115,92,38.55,39.36,952.83,Fever
+128,87,33.8,36.33,938.0,Hypoxia
+137,92,37.94,37.26,935.04,Tachycardia
+136,99,35.91,33.06,1025.59,Tachycardia
+83,88,37.27,44.77,975.67,Hypoxia
+95,85,33.23,40.35,1023.53,Hypoxia
+68,95,37.94,23.69,957.8,No Disease Detected
+67,88,38.32,42.04,961.19,Hypoxia
