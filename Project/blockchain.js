@@ -33,5 +33,15 @@ async function pushToBlockchain(patientDataString) {
     throw err;
   }
 }
+async function getFromBlockchain(index) {
+  try {
+    const record = await contract.methods.getRecord(index).call();
+    console.log(`Record at index ${index}:`, record);
+    return record;
+  } catch (err) {
+    console.error("Error retrieving record from blockchain:", err);
+    throw err;
+  }
+}
 
-module.exports = { pushToBlockchain };
+module.exports = { pushToBlockchain,getFromBlockchain };
