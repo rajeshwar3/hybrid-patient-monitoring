@@ -3,7 +3,7 @@
 const express = require("express");
 const router = express.Router();
 const { MongoClient, ObjectId } = require("mongodb");
-const { pushToBlockchain } = require("../blockchain");
+const { pushToBlockchain, getFromBlockchain } = require("../blockchain");
 
 // MongoDB connection
 const uri = "mongodb://localhost:27017/";
